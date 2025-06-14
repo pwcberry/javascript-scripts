@@ -3,9 +3,18 @@
   "version": "0.1.0",
   "description": "Scripts that help make working in JavaScript easier for day-to-day tasks.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "lint": "eslint lib/",
+    "lint:fix": "eslint --fix lib/",
+    "pretty": "prettier . --write",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Peter Berry",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "packageManager": "yarn@4.9.2",
+  "devDependencies": {
+    "eslint": "^9.29.0",
+    "prettier": "^3.5.3"
+  }
 }

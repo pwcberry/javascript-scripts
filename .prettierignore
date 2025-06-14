@@ -1,0 +1,7 @@
+# Ignore directories:
+node_modules
+.idea
+
+# Ignore files:
+package-lock.json
+yarn.lock
