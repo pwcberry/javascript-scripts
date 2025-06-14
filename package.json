@@ -1,0 +1,11 @@
+{
+  "name": "everyday-scripts-in-js",
+  "version": "0.1.0",
+  "description": "Scripts that help make working in JavaScript easier for day-to-day tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Berry",
+  "license": "Apache-2.0"
+}
