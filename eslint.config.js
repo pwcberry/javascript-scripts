@@ -7,10 +7,11 @@ export default [
     { languageOptions: { globals: { ...globals.browser, ...globals.node } } },
     pluginJs.configs.recommended,
     prettierConfig,
-    mochaPlugin.configs.flat.recommended,
+    mochaPlugin.configs.recommended,
     {
         rules: {
             "mocha/no-mocha-arrows": "off",
+            "no-unused-vars": "warn",
         },
     },
 ];

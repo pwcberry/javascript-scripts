@@ -5,16 +5,19 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "lint": "eslint lib/",
-    "lint:fix": "eslint --fix lib/",
+    "lint": "eslint lib/ web/",
+    "lint:fix": "eslint --fix lib/ web/",
     "pretty": "prettier . --write",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Peter Berry",
   "license": "Apache-2.0",
-  "packageManager": "yarn@4.9.2",
-  "devDependencies": {
+  "packageManager": "yarn@4.9.4",
+  "dependencies": {
     "eslint": "^9.29.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-mocha": "^11.1.0",
+    "eslint-plugin-prettier": "^5.5.4",
     "prettier": "^3.5.3"
   }
 }
