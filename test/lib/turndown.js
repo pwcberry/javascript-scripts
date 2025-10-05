@@ -15,7 +15,7 @@ describe("turndown.js", () => {
 
     beforeEach(async () => {
         utilModule = td.replace("../../lib/util.js");
-        module = await import("../../lib/turndown.js");
+        module = await import("../../lib/browser/turndown.js");
     });
 
     afterEach(() => {
