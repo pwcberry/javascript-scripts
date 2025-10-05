@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "lint": "eslint lib/ web/",
-    "lint:fix": "eslint --fix lib/ web/",
+    "lint": "eslint lib/ test/",
+    "lint:fix": "eslint --fix lib/ test/",
     "pretty": "prettier . --write",
     "test": "mocha \"test/**/*.js\""
   },
