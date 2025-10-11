@@ -1,0 +1,212 @@
+[
+  {
+    "familyName": "M5",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M5a",
+    "processor": "AMD (x86_64)",
+    "dedicatedHosts": "✗",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M5ad",
+    "processor": "AMD (x86_64)",
+    "dedicatedHosts": "✗",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M5d",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M5dn",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M5n",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M5zn",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M6a",
+    "processor": "AMD (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M6g",
+    "processor": "AWS Graviton (arm64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Linux"
+  },
+  {
+    "familyName": "M6gd",
+    "processor": "AWS Graviton (arm64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Linux"
+  },
+  {
+    "familyName": "M6i",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M6id",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M6idn",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M6in",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M7a",
+    "processor": "AMD (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M7g",
+    "processor": "AWS Graviton (arm64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Linux"
+  },
+  {
+    "familyName": "M7gd",
+    "processor": "AWS Graviton (arm64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Linux"
+  },
+  {
+    "familyName": "M7i",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M7i-flex",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✗",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M8a",
+    "processor": "AMD (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M8g",
+    "processor": "AWS Graviton (arm64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Linux"
+  },
+  {
+    "familyName": "M8gd",
+    "processor": "AWS Graviton (arm64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Linux"
+  },
+  {
+    "familyName": "M8i",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "M8i-flex",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✗",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "Mac1",
+    "processor": "Intel (x86_64_mac)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Linux"
+  },
+  {
+    "familyName": "Mac2",
+    "processor": "Apple (arm64_mac)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Linux"
+  },
+  {
+    "familyName": "Mac2-m1ultra",
+    "processor": "Apple (arm64_mac)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Linux"
+  },
+  {
+    "familyName": "Mac2-m2",
+    "processor": "Apple (arm64_mac)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Linux"
+  },
+  {
+    "familyName": "Mac2-m2pro",
+    "processor": "Apple (arm64_mac)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Linux"
+  },
+  {
+    "familyName": "Mac-m4",
+    "processor": "Apple (arm64_mac)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Linux"
+  },
+  {
+    "familyName": "Mac-m4pro",
+    "processor": "Apple (arm64_mac)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Linux"
+  },
+  {
+    "familyName": "T2",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✗",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "T3",
+    "processor": "Intel (x86_64)",
+    "dedicatedHosts": "✓",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "T3a",
+    "processor": "AMD (x86_64)",
+    "dedicatedHosts": "✗",
+    "operatingSystems": "Windows | Linux"
+  },
+  {
+    "familyName": "T4g",
+    "processor": "AWS Graviton (arm64)",
+    "dedicatedHosts": "✗",
+    "operatingSystems": "Linux"
+  }
+]

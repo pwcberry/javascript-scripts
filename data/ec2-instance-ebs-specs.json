@@ -1,0 +1,1562 @@
+[
+  {
+    "instanceType": "m5.large",
+    "maxBandwidth": "650.00 / 4750.00",
+    "maxThroughput": "81.25 / 593.75",
+    "maxIOPS": "3600.00 / 18750.00"
+  },
+  {
+    "instanceType": "m5.xlarge",
+    "maxBandwidth": "1150.00 / 4750.00",
+    "maxThroughput": "143.75 / 593.75",
+    "maxIOPS": "6000.00 / 18750.00"
+  },
+  {
+    "instanceType": "m5.2xlarge",
+    "maxBandwidth": "2300.00 / 4750.00",
+    "maxThroughput": "287.50 / 593.75",
+    "maxIOPS": "12000.00 / 18750.00"
+  },
+  {
+    "instanceType": "m5.4xlarge",
+    "maxBandwidth": "4750.00",
+    "maxThroughput": "593.75",
+    "maxIOPS": "18750.00"
+  },
+  {
+    "instanceType": "m5.8xlarge",
+    "maxBandwidth": "6800.00",
+    "maxThroughput": "850.00",
+    "maxIOPS": "30000.00"
+  },
+  {
+    "instanceType": "m5.12xlarge",
+    "maxBandwidth": "9500.00",
+    "maxThroughput": "1187.50",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m5.16xlarge",
+    "maxBandwidth": "13600.00",
+    "maxThroughput": "1700.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m5.24xlarge",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m5.metal",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m5a.large",
+    "maxBandwidth": "650.00 / 2880.00",
+    "maxThroughput": "81.25 / 360.00",
+    "maxIOPS": "3600.00 / 16000.00"
+  },
+  {
+    "instanceType": "m5a.xlarge",
+    "maxBandwidth": "1085.00 / 2880.00",
+    "maxThroughput": "135.62 / 360.00",
+    "maxIOPS": "6000.00 / 16000.00"
+  },
+  {
+    "instanceType": "m5a.2xlarge",
+    "maxBandwidth": "1580.00 / 2880.00",
+    "maxThroughput": "197.50 / 360.00",
+    "maxIOPS": "8333.00 / 16000.00"
+  },
+  {
+    "instanceType": "m5a.4xlarge",
+    "maxBandwidth": "2880.00",
+    "maxThroughput": "360.00",
+    "maxIOPS": "16000.00"
+  },
+  {
+    "instanceType": "m5a.8xlarge",
+    "maxBandwidth": "4750.00",
+    "maxThroughput": "593.75",
+    "maxIOPS": "20000.00"
+  },
+  {
+    "instanceType": "m5a.12xlarge",
+    "maxBandwidth": "6780.00",
+    "maxThroughput": "847.50",
+    "maxIOPS": "30000.00"
+  },
+  {
+    "instanceType": "m5a.16xlarge",
+    "maxBandwidth": "9500.00",
+    "maxThroughput": "1187.50",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m5a.24xlarge",
+    "maxBandwidth": "13750.00",
+    "maxThroughput": "1718.75",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m5ad.large",
+    "maxBandwidth": "650.00 / 2880.00",
+    "maxThroughput": "81.25 / 360.00",
+    "maxIOPS": "3600.00 / 16000.00"
+  },
+  {
+    "instanceType": "m5ad.xlarge",
+    "maxBandwidth": "1085.00 / 2880.00",
+    "maxThroughput": "135.62 / 360.00",
+    "maxIOPS": "6000.00 / 16000.00"
+  },
+  {
+    "instanceType": "m5ad.2xlarge",
+    "maxBandwidth": "1580.00 / 2880.00",
+    "maxThroughput": "197.50 / 360.00",
+    "maxIOPS": "8333.00 / 16000.00"
+  },
+  {
+    "instanceType": "m5ad.4xlarge",
+    "maxBandwidth": "2880.00",
+    "maxThroughput": "360.00",
+    "maxIOPS": "16000.00"
+  },
+  {
+    "instanceType": "m5ad.8xlarge",
+    "maxBandwidth": "4750.00",
+    "maxThroughput": "593.75",
+    "maxIOPS": "20000.00"
+  },
+  {
+    "instanceType": "m5ad.12xlarge",
+    "maxBandwidth": "6780.00",
+    "maxThroughput": "847.50",
+    "maxIOPS": "30000.00"
+  },
+  {
+    "instanceType": "m5ad.16xlarge",
+    "maxBandwidth": "9500.00",
+    "maxThroughput": "1187.50",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m5ad.24xlarge",
+    "maxBandwidth": "13750.00",
+    "maxThroughput": "1718.75",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m5d.large",
+    "maxBandwidth": "650.00 / 4750.00",
+    "maxThroughput": "81.25 / 593.75",
+    "maxIOPS": "3600.00 / 18750.00"
+  },
+  {
+    "instanceType": "m5d.xlarge",
+    "maxBandwidth": "1150.00 / 4750.00",
+    "maxThroughput": "143.75 / 593.75",
+    "maxIOPS": "6000.00 / 18750.00"
+  },
+  {
+    "instanceType": "m5d.2xlarge",
+    "maxBandwidth": "2300.00 / 4750.00",
+    "maxThroughput": "287.50 / 593.75",
+    "maxIOPS": "12000.00 / 18750.00"
+  },
+  {
+    "instanceType": "m5d.4xlarge",
+    "maxBandwidth": "4750.00",
+    "maxThroughput": "593.75",
+    "maxIOPS": "18750.00"
+  },
+  {
+    "instanceType": "m5d.8xlarge",
+    "maxBandwidth": "6800.00",
+    "maxThroughput": "850.00",
+    "maxIOPS": "30000.00"
+  },
+  {
+    "instanceType": "m5d.12xlarge",
+    "maxBandwidth": "9500.00",
+    "maxThroughput": "1187.50",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m5d.16xlarge",
+    "maxBandwidth": "13600.00",
+    "maxThroughput": "1700.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m5d.24xlarge",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m5d.metal",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m5dn.large",
+    "maxBandwidth": "650.00 / 4750.00",
+    "maxThroughput": "81.25 / 593.75",
+    "maxIOPS": "3600.00 / 18750.00"
+  },
+  {
+    "instanceType": "m5dn.xlarge",
+    "maxBandwidth": "1150.00 / 4750.00",
+    "maxThroughput": "143.75 / 593.75",
+    "maxIOPS": "6000.00 / 18750.00"
+  },
+  {
+    "instanceType": "m5dn.2xlarge",
+    "maxBandwidth": "2300.00 / 4750.00",
+    "maxThroughput": "287.50 / 593.75",
+    "maxIOPS": "12000.00 / 18750.00"
+  },
+  {
+    "instanceType": "m5dn.4xlarge",
+    "maxBandwidth": "4750.00",
+    "maxThroughput": "593.75",
+    "maxIOPS": "18750.00"
+  },
+  {
+    "instanceType": "m5dn.8xlarge",
+    "maxBandwidth": "6800.00",
+    "maxThroughput": "850.00",
+    "maxIOPS": "30000.00"
+  },
+  {
+    "instanceType": "m5dn.12xlarge",
+    "maxBandwidth": "9500.00",
+    "maxThroughput": "1187.50",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m5dn.16xlarge",
+    "maxBandwidth": "13600.00",
+    "maxThroughput": "1700.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m5dn.24xlarge",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m5dn.metal",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m5n.large",
+    "maxBandwidth": "650.00 / 4750.00",
+    "maxThroughput": "81.25 / 593.75",
+    "maxIOPS": "3600.00 / 18750.00"
+  },
+  {
+    "instanceType": "m5n.xlarge",
+    "maxBandwidth": "1150.00 / 4750.00",
+    "maxThroughput": "143.75 / 593.75",
+    "maxIOPS": "6000.00 / 18750.00"
+  },
+  {
+    "instanceType": "m5n.2xlarge",
+    "maxBandwidth": "2300.00 / 4750.00",
+    "maxThroughput": "287.50 / 593.75",
+    "maxIOPS": "12000.00 / 18750.00"
+  },
+  {
+    "instanceType": "m5n.4xlarge",
+    "maxBandwidth": "4750.00",
+    "maxThroughput": "593.75",
+    "maxIOPS": "18750.00"
+  },
+  {
+    "instanceType": "m5n.8xlarge",
+    "maxBandwidth": "6800.00",
+    "maxThroughput": "850.00",
+    "maxIOPS": "30000.00"
+  },
+  {
+    "instanceType": "m5n.12xlarge",
+    "maxBandwidth": "9500.00",
+    "maxThroughput": "1187.50",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m5n.16xlarge",
+    "maxBandwidth": "13600.00",
+    "maxThroughput": "1700.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m5n.24xlarge",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m5n.metal",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m5zn.large",
+    "maxBandwidth": "800.00 / 3170.00",
+    "maxThroughput": "100.00 / 396.25",
+    "maxIOPS": "3333.00 / 13333.00"
+  },
+  {
+    "instanceType": "m5zn.xlarge",
+    "maxBandwidth": "1564.00 / 3170.00",
+    "maxThroughput": "195.50 / 396.25",
+    "maxIOPS": "6667.00 / 13333.00"
+  },
+  {
+    "instanceType": "m5zn.2xlarge",
+    "maxBandwidth": "3170.00",
+    "maxThroughput": "396.25",
+    "maxIOPS": "13333.00"
+  },
+  {
+    "instanceType": "m5zn.3xlarge",
+    "maxBandwidth": "4750.00",
+    "maxThroughput": "593.75",
+    "maxIOPS": "20000.00"
+  },
+  {
+    "instanceType": "m5zn.6xlarge",
+    "maxBandwidth": "9500.00",
+    "maxThroughput": "1187.50",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m5zn.12xlarge",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m5zn.metal",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m6a.large",
+    "maxBandwidth": "650.00 / 10000.00",
+    "maxThroughput": "81.25 / 1250.00",
+    "maxIOPS": "3600.00 / 40000.00"
+  },
+  {
+    "instanceType": "m6a.xlarge",
+    "maxBandwidth": "1250.00 / 10000.00",
+    "maxThroughput": "156.25 / 1250.00",
+    "maxIOPS": "6000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m6a.2xlarge",
+    "maxBandwidth": "2500.00 / 10000.00",
+    "maxThroughput": "312.50 / 1250.00",
+    "maxIOPS": "12000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m6a.4xlarge",
+    "maxBandwidth": "5000.00 / 10000.00",
+    "maxThroughput": "625.00 / 1250.00",
+    "maxIOPS": "20000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m6a.8xlarge",
+    "maxBandwidth": "10000.00",
+    "maxThroughput": "1250.00",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m6a.12xlarge",
+    "maxBandwidth": "15000.00",
+    "maxThroughput": "1875.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m6a.16xlarge",
+    "maxBandwidth": "20000.00",
+    "maxThroughput": "2500.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m6a.24xlarge",
+    "maxBandwidth": "30000.00",
+    "maxThroughput": "3750.00",
+    "maxIOPS": "120000.00"
+  },
+  {
+    "instanceType": "m6a.32xlarge",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "160000.00"
+  },
+  {
+    "instanceType": "m6a.48xlarge",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m6a.metal",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m6g.medium",
+    "maxBandwidth": "315.00 / 4750.00",
+    "maxThroughput": "39.38 / 593.75",
+    "maxIOPS": "2500.00 / 20000.00"
+  },
+  {
+    "instanceType": "m6g.large",
+    "maxBandwidth": "630.00 / 4750.00",
+    "maxThroughput": "78.75 / 593.75",
+    "maxIOPS": "3600.00 / 20000.00"
+  },
+  {
+    "instanceType": "m6g.xlarge",
+    "maxBandwidth": "1188.00 / 4750.00",
+    "maxThroughput": "148.50 / 593.75",
+    "maxIOPS": "6000.00 / 20000.00"
+  },
+  {
+    "instanceType": "m6g.2xlarge",
+    "maxBandwidth": "2375.00 / 4750.00",
+    "maxThroughput": "296.88 / 593.75",
+    "maxIOPS": "12000.00 / 20000.00"
+  },
+  {
+    "instanceType": "m6g.4xlarge",
+    "maxBandwidth": "4750.00",
+    "maxThroughput": "593.75",
+    "maxIOPS": "20000.00"
+  },
+  {
+    "instanceType": "m6g.8xlarge",
+    "maxBandwidth": "9500.00",
+    "maxThroughput": "1187.50",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m6g.12xlarge",
+    "maxBandwidth": "14250.00",
+    "maxThroughput": "1781.25",
+    "maxIOPS": "50000.00"
+  },
+  {
+    "instanceType": "m6g.16xlarge",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m6g.metal",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m6gd.medium",
+    "maxBandwidth": "315.00 / 4750.00",
+    "maxThroughput": "39.38 / 593.75",
+    "maxIOPS": "2500.00 / 20000.00"
+  },
+  {
+    "instanceType": "m6gd.large",
+    "maxBandwidth": "630.00 / 4750.00",
+    "maxThroughput": "78.75 / 593.75",
+    "maxIOPS": "3600.00 / 20000.00"
+  },
+  {
+    "instanceType": "m6gd.xlarge",
+    "maxBandwidth": "1188.00 / 4750.00",
+    "maxThroughput": "148.50 / 593.75",
+    "maxIOPS": "6000.00 / 20000.00"
+  },
+  {
+    "instanceType": "m6gd.2xlarge",
+    "maxBandwidth": "2375.00 / 4750.00",
+    "maxThroughput": "296.88 / 593.75",
+    "maxIOPS": "12000.00 / 20000.00"
+  },
+  {
+    "instanceType": "m6gd.4xlarge",
+    "maxBandwidth": "4750.00",
+    "maxThroughput": "593.75",
+    "maxIOPS": "20000.00"
+  },
+  {
+    "instanceType": "m6gd.8xlarge",
+    "maxBandwidth": "9500.00",
+    "maxThroughput": "1187.50",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m6gd.12xlarge",
+    "maxBandwidth": "14250.00",
+    "maxThroughput": "1781.25",
+    "maxIOPS": "50000.00"
+  },
+  {
+    "instanceType": "m6gd.16xlarge",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m6gd.metal",
+    "maxBandwidth": "19000.00",
+    "maxThroughput": "2375.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m6i.large",
+    "maxBandwidth": "650.00 / 10000.00",
+    "maxThroughput": "81.25 / 1250.00",
+    "maxIOPS": "3600.00 / 40000.00"
+  },
+  {
+    "instanceType": "m6i.xlarge",
+    "maxBandwidth": "1250.00 / 10000.00",
+    "maxThroughput": "156.25 / 1250.00",
+    "maxIOPS": "6000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m6i.2xlarge",
+    "maxBandwidth": "2500.00 / 10000.00",
+    "maxThroughput": "312.50 / 1250.00",
+    "maxIOPS": "12000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m6i.4xlarge",
+    "maxBandwidth": "5000.00 / 10000.00",
+    "maxThroughput": "625.00 / 1250.00",
+    "maxIOPS": "20000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m6i.8xlarge",
+    "maxBandwidth": "10000.00",
+    "maxThroughput": "1250.00",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m6i.12xlarge",
+    "maxBandwidth": "15000.00",
+    "maxThroughput": "1875.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m6i.16xlarge",
+    "maxBandwidth": "20000.00",
+    "maxThroughput": "2500.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m6i.24xlarge",
+    "maxBandwidth": "30000.00",
+    "maxThroughput": "3750.00",
+    "maxIOPS": "120000.00"
+  },
+  {
+    "instanceType": "m6i.32xlarge",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "160000.00"
+  },
+  {
+    "instanceType": "m6i.metal",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "160000.00"
+  },
+  {
+    "instanceType": "m6id.large",
+    "maxBandwidth": "650.00 / 10000.00",
+    "maxThroughput": "81.25 / 1250.00",
+    "maxIOPS": "3600.00 / 40000.00"
+  },
+  {
+    "instanceType": "m6id.xlarge",
+    "maxBandwidth": "1250.00 / 10000.00",
+    "maxThroughput": "156.25 / 1250.00",
+    "maxIOPS": "6000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m6id.2xlarge",
+    "maxBandwidth": "2500.00 / 10000.00",
+    "maxThroughput": "312.50 / 1250.00",
+    "maxIOPS": "12000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m6id.4xlarge",
+    "maxBandwidth": "5000.00 / 10000.00",
+    "maxThroughput": "625.00 / 1250.00",
+    "maxIOPS": "20000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m6id.8xlarge",
+    "maxBandwidth": "10000.00",
+    "maxThroughput": "1250.00",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m6id.12xlarge",
+    "maxBandwidth": "15000.00",
+    "maxThroughput": "1875.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m6id.16xlarge",
+    "maxBandwidth": "20000.00",
+    "maxThroughput": "2500.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m6id.24xlarge",
+    "maxBandwidth": "30000.00",
+    "maxThroughput": "3750.00",
+    "maxIOPS": "120000.00"
+  },
+  {
+    "instanceType": "m6id.32xlarge",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "160000.00"
+  },
+  {
+    "instanceType": "m6id.metal",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "160000.00"
+  },
+  {
+    "instanceType": "m6idn.large",
+    "maxBandwidth": "1562.00 / 25000.00",
+    "maxThroughput": "195.31 / 3125.00",
+    "maxIOPS": "6250.00 / 100000.00"
+  },
+  {
+    "instanceType": "m6idn.xlarge",
+    "maxBandwidth": "3125.00 / 25000.00",
+    "maxThroughput": "390.62 / 3125.00",
+    "maxIOPS": "12500.00 / 100000.00"
+  },
+  {
+    "instanceType": "m6idn.2xlarge",
+    "maxBandwidth": "6250.00 / 25000.00",
+    "maxThroughput": "781.25 / 3125.00",
+    "maxIOPS": "25000.00 / 100000.00"
+  },
+  {
+    "instanceType": "m6idn.4xlarge",
+    "maxBandwidth": "12500.00 / 25000.00",
+    "maxThroughput": "1562.50 / 3125.00",
+    "maxIOPS": "50000.00 / 100000.00"
+  },
+  {
+    "instanceType": "m6idn.8xlarge",
+    "maxBandwidth": "25000.00",
+    "maxThroughput": "3125.00",
+    "maxIOPS": "100000.00"
+  },
+  {
+    "instanceType": "m6idn.12xlarge",
+    "maxBandwidth": "37500.00",
+    "maxThroughput": "4687.50",
+    "maxIOPS": "150000.00"
+  },
+  {
+    "instanceType": "m6idn.16xlarge",
+    "maxBandwidth": "50000.00",
+    "maxThroughput": "6250.00",
+    "maxIOPS": "200000.00"
+  },
+  {
+    "instanceType": "m6idn.24xlarge",
+    "maxBandwidth": "75000.00",
+    "maxThroughput": "9375.00",
+    "maxIOPS": "300000.00"
+  },
+  {
+    "instanceType": "m6idn.32xlarge",
+    "maxBandwidth": "100000.00",
+    "maxThroughput": "12500.00",
+    "maxIOPS": "400000.00"
+  },
+  {
+    "instanceType": "m6idn.metal",
+    "maxBandwidth": "100000.00",
+    "maxThroughput": "12500.00",
+    "maxIOPS": "400000.00"
+  },
+  {
+    "instanceType": "m6in.large",
+    "maxBandwidth": "1562.00 / 25000.00",
+    "maxThroughput": "195.31 / 3125.00",
+    "maxIOPS": "6250.00 / 100000.00"
+  },
+  {
+    "instanceType": "m6in.xlarge",
+    "maxBandwidth": "3125.00 / 25000.00",
+    "maxThroughput": "390.62 / 3125.00",
+    "maxIOPS": "12500.00 / 100000.00"
+  },
+  {
+    "instanceType": "m6in.2xlarge",
+    "maxBandwidth": "6250.00 / 25000.00",
+    "maxThroughput": "781.25 / 3125.00",
+    "maxIOPS": "25000.00 / 100000.00"
+  },
+  {
+    "instanceType": "m6in.4xlarge",
+    "maxBandwidth": "12500.00 / 25000.00",
+    "maxThroughput": "1562.50 / 3125.00",
+    "maxIOPS": "50000.00 / 100000.00"
+  },
+  {
+    "instanceType": "m6in.8xlarge",
+    "maxBandwidth": "25000.00",
+    "maxThroughput": "3125.00",
+    "maxIOPS": "100000.00"
+  },
+  {
+    "instanceType": "m6in.12xlarge",
+    "maxBandwidth": "37500.00",
+    "maxThroughput": "4687.50",
+    "maxIOPS": "150000.00"
+  },
+  {
+    "instanceType": "m6in.16xlarge",
+    "maxBandwidth": "50000.00",
+    "maxThroughput": "6250.00",
+    "maxIOPS": "200000.00"
+  },
+  {
+    "instanceType": "m6in.24xlarge",
+    "maxBandwidth": "75000.00",
+    "maxThroughput": "9375.00",
+    "maxIOPS": "300000.00"
+  },
+  {
+    "instanceType": "m6in.32xlarge",
+    "maxBandwidth": "100000.00",
+    "maxThroughput": "12500.00",
+    "maxIOPS": "400000.00"
+  },
+  {
+    "instanceType": "m6in.metal",
+    "maxBandwidth": "100000.00",
+    "maxThroughput": "12500.00",
+    "maxIOPS": "400000.00"
+  },
+  {
+    "instanceType": "m7a.medium",
+    "maxBandwidth": "325.00 / 10000.00",
+    "maxThroughput": "40.62 / 1250.00",
+    "maxIOPS": "2500.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7a.large",
+    "maxBandwidth": "650.00 / 10000.00",
+    "maxThroughput": "81.25 / 1250.00",
+    "maxIOPS": "3600.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7a.xlarge",
+    "maxBandwidth": "1250.00 / 10000.00",
+    "maxThroughput": "156.25 / 1250.00",
+    "maxIOPS": "6000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7a.2xlarge",
+    "maxBandwidth": "2500.00 / 10000.00",
+    "maxThroughput": "312.50 / 1250.00",
+    "maxIOPS": "12000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7a.4xlarge",
+    "maxBandwidth": "5000.00 / 10000.00",
+    "maxThroughput": "625.00 / 1250.00",
+    "maxIOPS": "20000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7a.8xlarge",
+    "maxBandwidth": "10000.00",
+    "maxThroughput": "1250.00",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m7a.12xlarge",
+    "maxBandwidth": "15000.00",
+    "maxThroughput": "1875.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m7a.16xlarge",
+    "maxBandwidth": "20000.00",
+    "maxThroughput": "2500.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m7a.24xlarge",
+    "maxBandwidth": "30000.00",
+    "maxThroughput": "3750.00",
+    "maxIOPS": "120000.00"
+  },
+  {
+    "instanceType": "m7a.32xlarge",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "160000.00"
+  },
+  {
+    "instanceType": "m7a.48xlarge",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m7a.metal-48xl",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m7g.medium",
+    "maxBandwidth": "315.00 / 10000.00",
+    "maxThroughput": "39.38 / 1250.00",
+    "maxIOPS": "2500.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7g.large",
+    "maxBandwidth": "630.00 / 10000.00",
+    "maxThroughput": "78.75 / 1250.00",
+    "maxIOPS": "3600.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7g.xlarge",
+    "maxBandwidth": "1250.00 / 10000.00",
+    "maxThroughput": "156.25 / 1250.00",
+    "maxIOPS": "6000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7g.2xlarge",
+    "maxBandwidth": "2500.00 / 10000.00",
+    "maxThroughput": "312.50 / 1250.00",
+    "maxIOPS": "12000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7g.4xlarge",
+    "maxBandwidth": "5000.00 / 10000.00",
+    "maxThroughput": "625.00 / 1250.00",
+    "maxIOPS": "20000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7g.8xlarge",
+    "maxBandwidth": "10000.00",
+    "maxThroughput": "1250.00",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m7g.12xlarge",
+    "maxBandwidth": "15000.00",
+    "maxThroughput": "1875.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m7g.16xlarge",
+    "maxBandwidth": "20000.00",
+    "maxThroughput": "2500.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m7g.metal",
+    "maxBandwidth": "20000.00",
+    "maxThroughput": "2500.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m7gd.medium",
+    "maxBandwidth": "315.00 / 10000.00",
+    "maxThroughput": "39.38 / 1250.00",
+    "maxIOPS": "2500.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7gd.large",
+    "maxBandwidth": "630.00 / 10000.00",
+    "maxThroughput": "78.75 / 1250.00",
+    "maxIOPS": "3600.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7gd.xlarge",
+    "maxBandwidth": "1250.00 / 10000.00",
+    "maxThroughput": "156.25 / 1250.00",
+    "maxIOPS": "6000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7gd.2xlarge",
+    "maxBandwidth": "2500.00 / 10000.00",
+    "maxThroughput": "312.50 / 1250.00",
+    "maxIOPS": "12000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7gd.4xlarge",
+    "maxBandwidth": "5000.00 / 10000.00",
+    "maxThroughput": "625.00 / 1250.00",
+    "maxIOPS": "20000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7gd.8xlarge",
+    "maxBandwidth": "10000.00",
+    "maxThroughput": "1250.00",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m7gd.12xlarge",
+    "maxBandwidth": "15000.00",
+    "maxThroughput": "1875.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m7gd.16xlarge",
+    "maxBandwidth": "20000.00",
+    "maxThroughput": "2500.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m7gd.metal",
+    "maxBandwidth": "20000.00",
+    "maxThroughput": "2500.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m7i.large",
+    "maxBandwidth": "650.00 / 10000.00",
+    "maxThroughput": "81.25 / 1250.00",
+    "maxIOPS": "3600.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7i.xlarge",
+    "maxBandwidth": "1250.00 / 10000.00",
+    "maxThroughput": "156.25 / 1250.00",
+    "maxIOPS": "6000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7i.2xlarge",
+    "maxBandwidth": "2500.00 / 10000.00",
+    "maxThroughput": "312.50 / 1250.00",
+    "maxIOPS": "12000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7i.4xlarge",
+    "maxBandwidth": "5000.00 / 10000.00",
+    "maxThroughput": "625.00 / 1250.00",
+    "maxIOPS": "20000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7i.8xlarge",
+    "maxBandwidth": "10000.00",
+    "maxThroughput": "1250.00",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m7i.12xlarge",
+    "maxBandwidth": "15000.00",
+    "maxThroughput": "1875.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m7i.16xlarge",
+    "maxBandwidth": "20000.00",
+    "maxThroughput": "2500.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m7i.24xlarge",
+    "maxBandwidth": "30000.00",
+    "maxThroughput": "3750.00",
+    "maxIOPS": "120000.00"
+  },
+  {
+    "instanceType": "m7i.48xlarge",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m7i.metal-24xl",
+    "maxBandwidth": "30000.00",
+    "maxThroughput": "3750.00",
+    "maxIOPS": "120000.00"
+  },
+  {
+    "instanceType": "m7i.metal-48xl",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m7i-flex.large",
+    "maxBandwidth": "312.00 / 10000.00",
+    "maxThroughput": "39.06 / 1250.00",
+    "maxIOPS": "2500.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7i-flex.xlarge",
+    "maxBandwidth": "625.00 / 10000.00",
+    "maxThroughput": "78.12 / 1250.00",
+    "maxIOPS": "3600.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7i-flex.2xlarge",
+    "maxBandwidth": "1250.00 / 10000.00",
+    "maxThroughput": "156.25 / 1250.00",
+    "maxIOPS": "6000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7i-flex.4xlarge",
+    "maxBandwidth": "2500.00 / 10000.00",
+    "maxThroughput": "312.50 / 1250.00",
+    "maxIOPS": "12000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7i-flex.8xlarge",
+    "maxBandwidth": "5000.00 / 10000.00",
+    "maxThroughput": "625.00 / 1250.00",
+    "maxIOPS": "20000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m7i-flex.12xlarge",
+    "maxBandwidth": "7500.00 / 15000.00",
+    "maxThroughput": "937.50 / 1875.00",
+    "maxIOPS": "30000.00 / 60000.00"
+  },
+  {
+    "instanceType": "m7i-flex.16xlarge",
+    "maxBandwidth": "10000.00 / 20000.00",
+    "maxThroughput": "1250.00 / 2500.00",
+    "maxIOPS": "40000.00 / 80000.00"
+  },
+  {
+    "instanceType": "m8a.medium",
+    "maxBandwidth": "325.00 / 10000.00",
+    "maxThroughput": "40.62 / 1250.00",
+    "maxIOPS": "2500.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8a.large",
+    "maxBandwidth": "650.00 / 10000.00",
+    "maxThroughput": "81.25 / 1250.00",
+    "maxIOPS": "3600.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8a.xlarge",
+    "maxBandwidth": "1250.00 / 10000.00",
+    "maxThroughput": "156.25 / 1250.00",
+    "maxIOPS": "6000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8a.2xlarge",
+    "maxBandwidth": "2500.00 / 10000.00",
+    "maxThroughput": "312.50 / 1250.00",
+    "maxIOPS": "12000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8a.4xlarge",
+    "maxBandwidth": "5000.00 / 10000.00",
+    "maxThroughput": "625.00 / 1250.00",
+    "maxIOPS": "20000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8a.8xlarge",
+    "maxBandwidth": "10000.00",
+    "maxThroughput": "1250.00",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m8a.12xlarge",
+    "maxBandwidth": "15000.00",
+    "maxThroughput": "1875.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m8a.16xlarge",
+    "maxBandwidth": "20000.00",
+    "maxThroughput": "2500.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m8a.24xlarge",
+    "maxBandwidth": "30000.00",
+    "maxThroughput": "3750.00",
+    "maxIOPS": "120000.00"
+  },
+  {
+    "instanceType": "m8a.48xlarge",
+    "maxBandwidth": "60000.00",
+    "maxThroughput": "7500.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m8a.metal-24xl",
+    "maxBandwidth": "30000.00",
+    "maxThroughput": "3750.00",
+    "maxIOPS": "120000.00"
+  },
+  {
+    "instanceType": "m8a.metal-48xl",
+    "maxBandwidth": "60000.00",
+    "maxThroughput": "7500.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m8g.medium",
+    "maxBandwidth": "315.00 / 10000.00",
+    "maxThroughput": "39.38 / 1250.00",
+    "maxIOPS": "2500.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8g.large",
+    "maxBandwidth": "630.00 / 10000.00",
+    "maxThroughput": "78.75 / 1250.00",
+    "maxIOPS": "3600.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8g.xlarge",
+    "maxBandwidth": "1250.00 / 10000.00",
+    "maxThroughput": "156.25 / 1250.00",
+    "maxIOPS": "6000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8g.2xlarge",
+    "maxBandwidth": "2500.00 / 10000.00",
+    "maxThroughput": "312.50 / 1250.00",
+    "maxIOPS": "12000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8g.4xlarge",
+    "maxBandwidth": "5000.00 / 10000.00",
+    "maxThroughput": "625.00 / 1250.00",
+    "maxIOPS": "20000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8g.8xlarge",
+    "maxBandwidth": "10000.00",
+    "maxThroughput": "1250.00",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m8g.12xlarge",
+    "maxBandwidth": "15000.00",
+    "maxThroughput": "1875.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m8g.16xlarge",
+    "maxBandwidth": "20000.00",
+    "maxThroughput": "2500.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m8g.24xlarge",
+    "maxBandwidth": "30000.00",
+    "maxThroughput": "3750.00",
+    "maxIOPS": "120000.00"
+  },
+  {
+    "instanceType": "m8g.48xlarge",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m8g.metal-24xl",
+    "maxBandwidth": "30000.00",
+    "maxThroughput": "3750.00",
+    "maxIOPS": "120000.00"
+  },
+  {
+    "instanceType": "m8g.metal-48xl",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m8gd.medium",
+    "maxBandwidth": "315.00 / 10000.00",
+    "maxThroughput": "39.38 / 1250.00",
+    "maxIOPS": "2500.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8gd.large",
+    "maxBandwidth": "630.00 / 10000.00",
+    "maxThroughput": "78.75 / 1250.00",
+    "maxIOPS": "3600.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8gd.xlarge",
+    "maxBandwidth": "1250.00 / 10000.00",
+    "maxThroughput": "156.25 / 1250.00",
+    "maxIOPS": "6000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8gd.2xlarge",
+    "maxBandwidth": "2500.00 / 10000.00",
+    "maxThroughput": "312.50 / 1250.00",
+    "maxIOPS": "12000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8gd.4xlarge",
+    "maxBandwidth": "5000.00 / 10000.00",
+    "maxThroughput": "625.00 / 1250.00",
+    "maxIOPS": "20000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8gd.8xlarge",
+    "maxBandwidth": "10000.00",
+    "maxThroughput": "1250.00",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m8gd.12xlarge",
+    "maxBandwidth": "15000.00",
+    "maxThroughput": "1875.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m8gd.16xlarge",
+    "maxBandwidth": "20000.00",
+    "maxThroughput": "2500.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m8gd.24xlarge",
+    "maxBandwidth": "30000.00",
+    "maxThroughput": "3750.00",
+    "maxIOPS": "120000.00"
+  },
+  {
+    "instanceType": "m8gd.48xlarge",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m8gd.metal-24xl",
+    "maxBandwidth": "30000.00",
+    "maxThroughput": "3750.00",
+    "maxIOPS": "120000.00"
+  },
+  {
+    "instanceType": "m8gd.metal-48xl",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m8i.large",
+    "maxBandwidth": "650.00 / 10000.00",
+    "maxThroughput": "81.25 / 1250.00",
+    "maxIOPS": "3600.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8i.xlarge",
+    "maxBandwidth": "1250.00 / 10000.00",
+    "maxThroughput": "156.25 / 1250.00",
+    "maxIOPS": "6000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8i.2xlarge",
+    "maxBandwidth": "2500.00 / 10000.00",
+    "maxThroughput": "312.50 / 1250.00",
+    "maxIOPS": "12000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8i.4xlarge",
+    "maxBandwidth": "5000.00 / 10000.00",
+    "maxThroughput": "625.00 / 1250.00",
+    "maxIOPS": "20000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8i.8xlarge",
+    "maxBandwidth": "10000.00",
+    "maxThroughput": "1250.00",
+    "maxIOPS": "40000.00"
+  },
+  {
+    "instanceType": "m8i.12xlarge",
+    "maxBandwidth": "15000.00",
+    "maxThroughput": "1875.00",
+    "maxIOPS": "60000.00"
+  },
+  {
+    "instanceType": "m8i.16xlarge",
+    "maxBandwidth": "20000.00",
+    "maxThroughput": "2500.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "m8i.24xlarge",
+    "maxBandwidth": "30000.00",
+    "maxThroughput": "3750.00",
+    "maxIOPS": "120000.00"
+  },
+  {
+    "instanceType": "m8i.32xlarge",
+    "maxBandwidth": "40000.00",
+    "maxThroughput": "5000.00",
+    "maxIOPS": "160000.00"
+  },
+  {
+    "instanceType": "m8i.48xlarge",
+    "maxBandwidth": "60000.00",
+    "maxThroughput": "7500.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m8i.96xlarge",
+    "maxBandwidth": "80000.00",
+    "maxThroughput": "10000.00",
+    "maxIOPS": "480000.00"
+  },
+  {
+    "instanceType": "m8i.metal-48xl",
+    "maxBandwidth": "60000.00",
+    "maxThroughput": "7500.00",
+    "maxIOPS": "240000.00"
+  },
+  {
+    "instanceType": "m8i.metal-96xl",
+    "maxBandwidth": "80000.00",
+    "maxThroughput": "10000.00",
+    "maxIOPS": "480000.00"
+  },
+  {
+    "instanceType": "m8i-flex.large",
+    "maxBandwidth": "315.00 / 10000.00",
+    "maxThroughput": "39.38 / 1250.00",
+    "maxIOPS": "2500.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8i-flex.xlarge",
+    "maxBandwidth": "630.00 / 10000.00",
+    "maxThroughput": "78.75 / 1250.00",
+    "maxIOPS": "3600.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8i-flex.2xlarge",
+    "maxBandwidth": "1250.00 / 10000.00",
+    "maxThroughput": "156.25 / 1250.00",
+    "maxIOPS": "6000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8i-flex.4xlarge",
+    "maxBandwidth": "2500.00 / 10000.00",
+    "maxThroughput": "312.50 / 1250.00",
+    "maxIOPS": "12000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8i-flex.8xlarge",
+    "maxBandwidth": "5000.00 / 10000.00",
+    "maxThroughput": "625.00 / 1250.00",
+    "maxIOPS": "20000.00 / 40000.00"
+  },
+  {
+    "instanceType": "m8i-flex.12xlarge",
+    "maxBandwidth": "7500.00 / 15000.00",
+    "maxThroughput": "937.50 / 1875.00",
+    "maxIOPS": "30000.00 / 60000.00"
+  },
+  {
+    "instanceType": "m8i-flex.16xlarge",
+    "maxBandwidth": "10000.00 / 20000.00",
+    "maxThroughput": "1250.00 / 2500.00",
+    "maxIOPS": "40000.00 / 80000.00"
+  },
+  {
+    "instanceType": "mac1.metal",
+    "maxBandwidth": "14000.00",
+    "maxThroughput": "1750.00",
+    "maxIOPS": "80000.00"
+  },
+  {
+    "instanceType": "mac2.metal",
+    "maxBandwidth": "10000.00",
+    "maxThroughput": "1250.00",
+    "maxIOPS": "55000.00"
+  },
+  {
+    "instanceType": "mac2-m1ultra.metal",
+    "maxBandwidth": "10000.00",
+    "maxThroughput": "1250.00",
+    "maxIOPS": "55000.00"
+  },
+  {
+    "instanceType": "mac2-m2.metal",
+    "maxBandwidth": "8000.00",
+    "maxThroughput": "1000.00",
+    "maxIOPS": "55000.00"
+  },
+  {
+    "instanceType": "mac2-m2pro.metal",
+    "maxBandwidth": "8000.00",
+    "maxThroughput": "1000.00",
+    "maxIOPS": "55000.00"
+  },
+  {
+    "instanceType": "mac-m4.metal",
+    "maxBandwidth": "8000.00",
+    "maxThroughput": "1000.00",
+    "maxIOPS": "55000.00"
+  },
+  {
+    "instanceType": "mac-m4pro.metal",
+    "maxBandwidth": "8000.00",
+    "maxThroughput": "1000.00",
+    "maxIOPS": "55000.00"
+  },
+  {
+    "instanceType": "t3.nano",
+    "maxBandwidth": "43.00 / 2085.00",
+    "maxThroughput": "5.38 / 260.62",
+    "maxIOPS": "250.00 / 11800.00"
+  },
+  {
+    "instanceType": "t3.micro",
+    "maxBandwidth": "87.00 / 2085.00",
+    "maxThroughput": "10.88 / 260.62",
+    "maxIOPS": "500.00 / 11800.00"
+  },
+  {
+    "instanceType": "t3.small",
+    "maxBandwidth": "174.00 / 2085.00",
+    "maxThroughput": "21.75 / 260.62",
+    "maxIOPS": "1000.00 / 11800.00"
+  },
+  {
+    "instanceType": "t3.medium",
+    "maxBandwidth": "347.00 / 2085.00",
+    "maxThroughput": "43.38 / 260.62",
+    "maxIOPS": "2000.00 / 11800.00"
+  },
+  {
+    "instanceType": "t3.large",
+    "maxBandwidth": "695.00 / 2780.00",
+    "maxThroughput": "86.88 / 347.50",
+    "maxIOPS": "4000.00 / 15700.00"
+  },
+  {
+    "instanceType": "t3.xlarge",
+    "maxBandwidth": "695.00 / 2780.00",
+    "maxThroughput": "86.88 / 347.50",
+    "maxIOPS": "4000.00 / 15700.00"
+  },
+  {
+    "instanceType": "t3.2xlarge",
+    "maxBandwidth": "695.00 / 2780.00",
+    "maxThroughput": "86.88 / 347.50",
+    "maxIOPS": "4000.00 / 15700.00"
+  },
+  {
+    "instanceType": "t3a.nano",
+    "maxBandwidth": "45.00 / 2085.00",
+    "maxThroughput": "5.62 / 260.62",
+    "maxIOPS": "250.00 / 11800.00"
+  },
+  {
+    "instanceType": "t3a.micro",
+    "maxBandwidth": "90.00 / 2085.00",
+    "maxThroughput": "11.25 / 260.62",
+    "maxIOPS": "500.00 / 11800.00"
+  },
+  {
+    "instanceType": "t3a.small",
+    "maxBandwidth": "175.00 / 2085.00",
+    "maxThroughput": "21.88 / 260.62",
+    "maxIOPS": "1000.00 / 11800.00"
+  },
+  {
+    "instanceType": "t3a.medium",
+    "maxBandwidth": "350.00 / 2085.00",
+    "maxThroughput": "43.75 / 260.62",
+    "maxIOPS": "2000.00 / 11800.00"
+  },
+  {
+    "instanceType": "t3a.large",
+    "maxBandwidth": "695.00 / 2780.00",
+    "maxThroughput": "86.88 / 347.50",
+    "maxIOPS": "4000.00 / 15700.00"
+  },
+  {
+    "instanceType": "t3a.xlarge",
+    "maxBandwidth": "695.00 / 2780.00",
+    "maxThroughput": "86.88 / 347.50",
+    "maxIOPS": "4000.00 / 15700.00"
+  },
+  {
+    "instanceType": "t3a.2xlarge",
+    "maxBandwidth": "695.00 / 2780.00",
+    "maxThroughput": "86.88 / 347.50",
+    "maxIOPS": "4000.00 / 15700.00"
+  },
+  {
+    "instanceType": "t4g.nano",
+    "maxBandwidth": "43.00 / 2085.00",
+    "maxThroughput": "5.38 / 260.62",
+    "maxIOPS": "250.00 / 11800.00"
+  },
+  {
+    "instanceType": "t4g.micro",
+    "maxBandwidth": "87.00 / 2085.00",
+    "maxThroughput": "10.88 / 260.62",
+    "maxIOPS": "500.00 / 11800.00"
+  },
+  {
+    "instanceType": "t4g.small",
+    "maxBandwidth": "174.00 / 2085.00",
+    "maxThroughput": "21.75 / 260.62",
+    "maxIOPS": "1000.00 / 11800.00"
+  },
+  {
+    "instanceType": "t4g.medium",
+    "maxBandwidth": "347.00 / 2085.00",
+    "maxThroughput": "43.38 / 260.62",
+    "maxIOPS": "2000.00 / 11800.00"
+  },
+  {
+    "instanceType": "t4g.large",
+    "maxBandwidth": "695.00 / 2780.00",
+    "maxThroughput": "86.88 / 347.50",
+    "maxIOPS": "4000.00 / 15700.00"
+  },
+  {
+    "instanceType": "t4g.xlarge",
+    "maxBandwidth": "695.00 / 2780.00",
+    "maxThroughput": "86.88 / 347.50",
+    "maxIOPS": "4000.00 / 15700.00"
+  },
+  {
+    "instanceType": "t4g.2xlarge",
+    "maxBandwidth": "695.00 / 2780.00",
+    "maxThroughput": "86.88 / 347.50",
+    "maxIOPS": "4000.00 / 15700.00"
+  }
+]

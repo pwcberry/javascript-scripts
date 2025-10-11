@@ -1,0 +1,2138 @@
+[
+  {
+    "instanceType": "m5.large",
+    "baseline": "0.75 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5.xlarge",
+    "baseline": "1.25 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5.2xlarge",
+    "baseline": "2.5 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5.4xlarge",
+    "baseline": "5.0 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5.8xlarge",
+    "baseline": "10 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5.12xlarge",
+    "baseline": "12 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5.16xlarge",
+    "baseline": "20 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5.24xlarge",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5.metal",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5a.large",
+    "baseline": "0.75 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5a.xlarge",
+    "baseline": "1.25 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5a.2xlarge",
+    "baseline": "2.5 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5a.4xlarge",
+    "baseline": "5.0 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5a.8xlarge",
+    "baseline": "7.5 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5a.12xlarge",
+    "baseline": "10 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5a.16xlarge",
+    "baseline": "12 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5a.24xlarge",
+    "baseline": "20 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5ad.large",
+    "baseline": "0.75 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5ad.xlarge",
+    "baseline": "1.25 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5ad.2xlarge",
+    "baseline": "2.5 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5ad.4xlarge",
+    "baseline": "5.0 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5ad.8xlarge",
+    "baseline": "7.5 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5ad.12xlarge",
+    "baseline": "10 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5ad.16xlarge",
+    "baseline": "12 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5ad.24xlarge",
+    "baseline": "20 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5d.large",
+    "baseline": "0.75 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5d.xlarge",
+    "baseline": "1.25 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5d.2xlarge",
+    "baseline": "2.5 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5d.4xlarge",
+    "baseline": "5.0 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5d.8xlarge",
+    "baseline": "10 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5d.12xlarge",
+    "baseline": "12 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5d.16xlarge",
+    "baseline": "20 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5d.24xlarge",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5d.metal",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5dn.large",
+    "baseline": "2.1 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5dn.xlarge",
+    "baseline": "4.1 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5dn.2xlarge",
+    "baseline": "8.125 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5dn.4xlarge",
+    "baseline": "16.25 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5dn.8xlarge",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5dn.12xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5dn.16xlarge",
+    "baseline": "75 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5dn.24xlarge",
+    "baseline": "100 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5dn.metal",
+    "baseline": "100 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5n.large",
+    "baseline": "2.1 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5n.xlarge",
+    "baseline": "4.1 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5n.2xlarge",
+    "baseline": "8.125 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5n.4xlarge",
+    "baseline": "16.25 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5n.8xlarge",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5n.12xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5n.16xlarge",
+    "baseline": "75 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5n.24xlarge",
+    "baseline": "100 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5n.metal",
+    "baseline": "100 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5zn.large",
+    "baseline": "3.0 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5zn.xlarge",
+    "baseline": "5.0 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5zn.2xlarge",
+    "baseline": "10.0 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5zn.3xlarge",
+    "baseline": "15.0 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5zn.6xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5zn.12xlarge",
+    "baseline": "100 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m5zn.metal",
+    "baseline": "100 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6a.large",
+    "baseline": "0.781 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6a.xlarge",
+    "baseline": "1.562 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6a.2xlarge",
+    "baseline": "3.125 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6a.4xlarge",
+    "baseline": "6.25 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6a.8xlarge",
+    "baseline": "12.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6a.12xlarge",
+    "baseline": "18.75 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6a.16xlarge",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6a.24xlarge",
+    "baseline": "37.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6a.32xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6a.48xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6a.metal",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6g.medium",
+    "baseline": "0.5 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 4,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6g.large",
+    "baseline": "0.75 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6g.xlarge",
+    "baseline": "1.25 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6g.2xlarge",
+    "baseline": "2.5 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6g.4xlarge",
+    "baseline": "5.0 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6g.8xlarge",
+    "baseline": "12 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6g.12xlarge",
+    "baseline": "20 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6g.16xlarge",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6g.metal",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6gd.medium",
+    "baseline": "0.5 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 4,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6gd.large",
+    "baseline": "0.75 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6gd.xlarge",
+    "baseline": "1.25 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6gd.2xlarge",
+    "baseline": "2.5 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6gd.4xlarge",
+    "baseline": "5.0 / 10.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6gd.8xlarge",
+    "baseline": "12 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6gd.12xlarge",
+    "baseline": "20 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6gd.16xlarge",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6gd.metal",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6i.large",
+    "baseline": "0.781 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6i.xlarge",
+    "baseline": "1.562 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6i.2xlarge",
+    "baseline": "3.125 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6i.4xlarge",
+    "baseline": "6.25 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6i.8xlarge",
+    "baseline": "12.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6i.12xlarge",
+    "baseline": "18.75 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6i.16xlarge",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6i.24xlarge",
+    "baseline": "37.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6i.32xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6i.metal",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6id.large",
+    "baseline": "0.781 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6id.xlarge",
+    "baseline": "1.562 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6id.2xlarge",
+    "baseline": "3.125 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6id.4xlarge",
+    "baseline": "6.25 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6id.8xlarge",
+    "baseline": "12.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6id.12xlarge",
+    "baseline": "18.75 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6id.16xlarge",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6id.24xlarge",
+    "baseline": "37.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6id.32xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6id.metal",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6idn.large",
+    "baseline": "3.125 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6idn.xlarge",
+    "baseline": "6.25 / 30.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6idn.2xlarge",
+    "baseline": "12.5 / 40.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6idn.4xlarge",
+    "baseline": "25.0 / 50.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6idn.8xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6idn.12xlarge",
+    "baseline": "75 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6idn.16xlarge",
+    "baseline": "100 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6idn.24xlarge",
+    "baseline": "150 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6idn.32xlarge",
+    "baseline": "200 Gigabit",
+    "networkCards": 2,
+    "maxNetworkInterfaces": 16,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6idn.metal",
+    "baseline": "200 Gigabit",
+    "networkCards": 2,
+    "maxNetworkInterfaces": 16,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6in.large",
+    "baseline": "3.125 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6in.xlarge",
+    "baseline": "6.25 / 30.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6in.2xlarge",
+    "baseline": "12.5 / 40.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6in.4xlarge",
+    "baseline": "25.0 / 50.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6in.8xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6in.12xlarge",
+    "baseline": "75 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6in.16xlarge",
+    "baseline": "100 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6in.24xlarge",
+    "baseline": "150 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6in.32xlarge",
+    "baseline": "200 Gigabit",
+    "networkCards": 2,
+    "maxNetworkInterfaces": 16,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m6in.metal",
+    "baseline": "200 Gigabit",
+    "networkCards": 2,
+    "maxNetworkInterfaces": 16,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7a.medium",
+    "baseline": "0.39 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 4,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7a.large",
+    "baseline": "0.781 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7a.xlarge",
+    "baseline": "1.562 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7a.2xlarge",
+    "baseline": "3.125 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7a.4xlarge",
+    "baseline": "6.25 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7a.8xlarge",
+    "baseline": "12.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7a.12xlarge",
+    "baseline": "18.75 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7a.16xlarge",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7a.24xlarge",
+    "baseline": "37.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7a.32xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7a.48xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7a.metal-48xl",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7g.medium",
+    "baseline": "0.52 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 4,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7g.large",
+    "baseline": "0.937 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7g.xlarge",
+    "baseline": "1.876 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7g.2xlarge",
+    "baseline": "3.75 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7g.4xlarge",
+    "baseline": "7.5 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7g.8xlarge",
+    "baseline": "15 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7g.12xlarge",
+    "baseline": "22.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7g.16xlarge",
+    "baseline": "30 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7g.metal",
+    "baseline": "30 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7gd.medium",
+    "baseline": "0.52 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 4,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7gd.large",
+    "baseline": "0.937 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7gd.xlarge",
+    "baseline": "1.876 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7gd.2xlarge",
+    "baseline": "3.75 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7gd.4xlarge",
+    "baseline": "7.5 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7gd.8xlarge",
+    "baseline": "15 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7gd.12xlarge",
+    "baseline": "22.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7gd.16xlarge",
+    "baseline": "30 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7gd.metal",
+    "baseline": "30 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i.large",
+    "baseline": "0.781 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i.xlarge",
+    "baseline": "1.562 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i.2xlarge",
+    "baseline": "3.125 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i.4xlarge",
+    "baseline": "6.25 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i.8xlarge",
+    "baseline": "12.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i.12xlarge",
+    "baseline": "18.75 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i.16xlarge",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i.24xlarge",
+    "baseline": "37.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i.48xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i.metal-24xl",
+    "baseline": "37.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i.metal-48xl",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i-flex.large",
+    "baseline": "0.39 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i-flex.xlarge",
+    "baseline": "0.781 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i-flex.2xlarge",
+    "baseline": "1.562 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i-flex.4xlarge",
+    "baseline": "3.125 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i-flex.8xlarge",
+    "baseline": "6.25 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i-flex.12xlarge",
+    "baseline": "9.375 / 18.75",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m7i-flex.16xlarge",
+    "baseline": "12.5 / 25.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8a.medium",
+    "baseline": "0.52 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 4,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8a.large",
+    "baseline": "0.937 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 20,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8a.xlarge",
+    "baseline": "1.875 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 20,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8a.2xlarge",
+    "baseline": "3.75 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 40,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8a.4xlarge",
+    "baseline": "7.5 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 40,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8a.8xlarge",
+    "baseline": "15 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 10,
+    "ipAddressPerInterface": 40,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8a.12xlarge",
+    "baseline": "22.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 12,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8a.16xlarge",
+    "baseline": "30 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 16,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8a.24xlarge",
+    "baseline": "40 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 16,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8a.48xlarge",
+    "baseline": "75 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 24,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8a.metal-24xl",
+    "baseline": "40 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 16,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8a.metal-48xl",
+    "baseline": "75 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 24,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8g.medium",
+    "baseline": "0.52 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 4,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8g.large",
+    "baseline": "0.937 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8g.xlarge",
+    "baseline": "1.875 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8g.2xlarge",
+    "baseline": "3.75 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8g.4xlarge",
+    "baseline": "7.5 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8g.8xlarge",
+    "baseline": "15 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8g.12xlarge",
+    "baseline": "22.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8g.16xlarge",
+    "baseline": "30 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8g.24xlarge",
+    "baseline": "40 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8g.48xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8g.metal-24xl",
+    "baseline": "40 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8g.metal-48xl",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8gd.medium",
+    "baseline": "0.52 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 4,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8gd.large",
+    "baseline": "0.937 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 10,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8gd.xlarge",
+    "baseline": "1.875 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8gd.2xlarge",
+    "baseline": "3.75 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8gd.4xlarge",
+    "baseline": "7.5 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8gd.8xlarge",
+    "baseline": "15 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8gd.12xlarge",
+    "baseline": "22.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8gd.16xlarge",
+    "baseline": "30 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8gd.24xlarge",
+    "baseline": "40 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8gd.48xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8gd.metal-24xl",
+    "baseline": "40 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8gd.metal-48xl",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 15,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i.large",
+    "baseline": "0.937 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 20,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i.xlarge",
+    "baseline": "1.875 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i.2xlarge",
+    "baseline": "3.75 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i.4xlarge",
+    "baseline": "7.5 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i.8xlarge",
+    "baseline": "15 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 10,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i.12xlarge",
+    "baseline": "22.5 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 12,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i.16xlarge",
+    "baseline": "30 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 16,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i.24xlarge",
+    "baseline": "40 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 16,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i.32xlarge",
+    "baseline": "50 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 24,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i.48xlarge",
+    "baseline": "75 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 24,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i.96xlarge",
+    "baseline": "100 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 24,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i.metal-48xl",
+    "baseline": "75 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 24,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i.metal-96xl",
+    "baseline": "100 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 24,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i-flex.large",
+    "baseline": "0.468 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 20,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i-flex.xlarge",
+    "baseline": "0.937 / 12.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i-flex.2xlarge",
+    "baseline": "1.875 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i-flex.4xlarge",
+    "baseline": "3.75 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i-flex.8xlarge",
+    "baseline": "7.5 / 15.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 10,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i-flex.12xlarge",
+    "baseline": "11.25 / 22.5",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 12,
+    "ipAddressPerInterface": 50,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "m8i-flex.16xlarge",
+    "baseline": "15.0 / 30.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 16,
+    "ipAddressPerInterface": 64,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "mac1.metal",
+    "baseline": "25 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "mac2.metal",
+    "baseline": "10 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "mac2-m1ultra.metal",
+    "baseline": "10 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "mac2-m2.metal",
+    "baseline": "10 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "mac2-m2pro.metal",
+    "baseline": "10 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "mac-m4.metal",
+    "baseline": "10 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "mac-m4pro.metal",
+    "baseline": "10 Gigabit",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 8,
+    "ipAddressPerInterface": 30,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t2.nano",
+    "baseline": "Low to Moderate",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 2,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t2.micro",
+    "baseline": "Low to Moderate",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 2,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t2.small",
+    "baseline": "Low to Moderate",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 4,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t2.medium",
+    "baseline": "Low to Moderate",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 6,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t2.large",
+    "baseline": "Low to Moderate",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 12,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t2.xlarge",
+    "baseline": "Moderate",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t2.2xlarge",
+    "baseline": "Moderate",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3.nano",
+    "baseline": "0.032 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 2,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3.micro",
+    "baseline": "0.064 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 2,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3.small",
+    "baseline": "0.128 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 4,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3.medium",
+    "baseline": "0.256 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 6,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3.large",
+    "baseline": "0.512 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 12,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3.xlarge",
+    "baseline": "1.024 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3.2xlarge",
+    "baseline": "2.048 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3a.nano",
+    "baseline": "0.032 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 2,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3a.micro",
+    "baseline": "0.064 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 2,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3a.small",
+    "baseline": "0.128 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 4,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3a.medium",
+    "baseline": "0.256 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 6,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3a.large",
+    "baseline": "0.512 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 12,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3a.xlarge",
+    "baseline": "1.024 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t3a.2xlarge",
+    "baseline": "2.048 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t4g.nano",
+    "baseline": "0.032 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 2,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t4g.micro",
+    "baseline": "0.064 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 2,
+    "ipAddressPerInterface": 2,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t4g.small",
+    "baseline": "0.128 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 4,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t4g.medium",
+    "baseline": "0.256 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 6,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t4g.large",
+    "baseline": "0.512 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 3,
+    "ipAddressPerInterface": 12,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t4g.xlarge",
+    "baseline": "1.024 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  },
+  {
+    "instanceType": "t4g.2xlarge",
+    "baseline": "2.048 / 5.0",
+    "networkCards": 1,
+    "maxNetworkInterfaces": 4,
+    "ipAddressPerInterface": 15,
+    "IPv6": "✓"
+  }
+]

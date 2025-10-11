@@ -1,0 +1,2138 @@
+[
+  {
+    "instanceType": "m5.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m5.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m5a.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m5a.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5a.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5a.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5a.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5a.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5a.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5a.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5ad.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m5ad.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5ad.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5ad.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5ad.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5ad.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5ad.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5ad.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5d.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m5d.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5d.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5d.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5d.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5d.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5d.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5d.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5d.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m5dn.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m5dn.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5dn.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5dn.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5dn.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5dn.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5dn.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5dn.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5dn.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m5n.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m5n.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5n.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5n.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5n.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5n.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5n.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5n.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5n.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m5zn.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m5zn.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5zn.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5zn.3xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5zn.6xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5zn.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m5zn.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6a.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6a.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6a.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6a.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6a.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6a.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6a.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6a.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6a.32xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6a.48xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6a.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6g.medium",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6g.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6g.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6g.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6g.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6g.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6g.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6g.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6g.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6gd.medium",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6gd.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6gd.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6gd.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6gd.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6gd.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6gd.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6gd.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6gd.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6i.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6i.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6i.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6i.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6i.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6i.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6i.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6i.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6i.32xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6i.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6id.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6id.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6id.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6id.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6id.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6id.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6id.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6id.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6id.32xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6id.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6idn.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6idn.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6idn.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6idn.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6idn.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6idn.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6idn.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6idn.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6idn.32xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6idn.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6in.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m6in.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6in.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6in.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6in.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6in.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6in.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6in.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6in.32xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m6in.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7a.medium",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7a.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7a.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7a.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7a.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7a.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7a.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7a.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7a.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7a.32xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7a.48xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7a.metal-48xl",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7g.medium",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7g.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7g.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7g.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7g.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7g.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7g.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7g.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7g.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7gd.medium",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7gd.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7gd.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7gd.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7gd.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7gd.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7gd.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7gd.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7gd.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7i.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7i.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7i.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7i.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7i.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7i.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7i.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7i.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7i.48xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m7i.metal-24xl",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7i.metal-48xl",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7i-flex.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7i-flex.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7i-flex.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7i-flex.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7i-flex.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7i-flex.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m7i-flex.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8a.medium",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8a.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8a.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8a.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8a.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8a.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8a.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8a.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8a.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8a.48xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8a.metal-24xl",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8a.metal-48xl",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8g.medium",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8g.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8g.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8g.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8g.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8g.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8g.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8g.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8g.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8g.48xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8g.metal-24xl",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8g.metal-48xl",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8gd.medium",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8gd.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8gd.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8gd.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8gd.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8gd.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8gd.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8gd.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8gd.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8gd.48xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": true
+  },
+  {
+    "instanceType": "m8gd.metal-24xl",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8gd.metal-48xl",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i.24xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i.32xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i.48xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i.96xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i.metal-48xl",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i.metal-96xl",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i-flex.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i-flex.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i-flex.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i-flex.4xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i-flex.8xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i-flex.12xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "m8i-flex.16xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": true,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "mac1.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "mac2.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "mac2-m1ultra.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "mac2-m2.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "mac2-m2pro.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "mac-m4.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "mac-m4pro.metal",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "✓",
+    "encryptionInTransit": true,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t2.nano",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t2.micro",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t2.small",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t2.medium",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t2.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t2.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t2.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": false,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3.nano",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3.micro",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3.small",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3.medium",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3a.nano",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3a.micro",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3a.small",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3a.medium",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3a.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3a.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t3a.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t4g.nano",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t4g.micro",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t4g.small",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t4g.medium",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t4g.large",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t4g.xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  },
+  {
+    "instanceType": "t4g.2xlarge",
+    "ebsEncryption": true,
+    "instanceStoreEncryption": "Instance store not supported",
+    "encryptionInTransit": false,
+    "nitroTPM": true,
+    "nitroEnclaves": false
+  }
+]

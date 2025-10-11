@@ -1,0 +1,548 @@
+[
+  {
+    "instanceType": "m5ad.large",
+    "storeVolumes": "1 x 75 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "30,000 / 15,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5ad.xlarge",
+    "storeVolumes": "1 x 150 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "59,000 / 29,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5ad.2xlarge",
+    "storeVolumes": "1 x 300 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "117,000 / 57,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5ad.4xlarge",
+    "storeVolumes": "2 x 300 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "234,000 / 114,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5ad.8xlarge",
+    "storeVolumes": "2 x 600 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "466,666 / 233,334",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5ad.12xlarge",
+    "storeVolumes": "2 x 900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "700,000 / 340,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5ad.16xlarge",
+    "storeVolumes": "4 x 600 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "933,332 / 466,668",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5ad.24xlarge",
+    "storeVolumes": "4 x 900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,400,000 / 680,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5d.large",
+    "storeVolumes": "1 x 75 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "30,000 / 15,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5d.xlarge",
+    "storeVolumes": "1 x 150 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "59,000 / 29,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5d.2xlarge",
+    "storeVolumes": "1 x 300 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "117,000 / 57,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5d.4xlarge",
+    "storeVolumes": "2 x 300 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "234,000 / 114,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5d.8xlarge",
+    "storeVolumes": "2 x 600 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "466,666 / 233,334",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5d.12xlarge",
+    "storeVolumes": "2 x 900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "700,000 / 340,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5d.16xlarge",
+    "storeVolumes": "4 x 600 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "933,332 / 466,668",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5d.24xlarge",
+    "storeVolumes": "4 x 900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,400,000 / 680,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5d.metal",
+    "storeVolumes": "4 x 900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,400,000 / 680,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5dn.large",
+    "storeVolumes": "1 x 75 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "29,000 / 14,500",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5dn.xlarge",
+    "storeVolumes": "1 x 150 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "58,000 / 29,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5dn.2xlarge",
+    "storeVolumes": "1 x 300 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "116,000 / 58,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5dn.4xlarge",
+    "storeVolumes": "2 x 300 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "232,000 / 116,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5dn.8xlarge",
+    "storeVolumes": "2 x 600 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "464,000 / 232,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5dn.12xlarge",
+    "storeVolumes": "2 x 900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "700,000 / 350,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5dn.16xlarge",
+    "storeVolumes": "4 x 600 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "930,000 / 465,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5dn.24xlarge",
+    "storeVolumes": "4 x 900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,400,000 / 700,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m5dn.metal",
+    "storeVolumes": "4 x 900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,400,000 / 700,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6gd.medium",
+    "storeVolumes": "1 x 59 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "13,438 / 5,625",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6gd.large",
+    "storeVolumes": "1 x 118 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "26,875 / 11,250",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6gd.xlarge",
+    "storeVolumes": "1 x 237 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "53,750 / 22,500",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6gd.2xlarge",
+    "storeVolumes": "1 x 474 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "107,500 / 45,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6gd.4xlarge",
+    "storeVolumes": "1 x 950 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "215,000 / 90,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6gd.8xlarge",
+    "storeVolumes": "1 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "430,000 / 180,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6gd.12xlarge",
+    "storeVolumes": "2 x 1425 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "645,000 / 270,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6gd.16xlarge",
+    "storeVolumes": "2 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "860,000 / 360,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6gd.metal",
+    "storeVolumes": "2 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "860,000 / 360,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6id.large",
+    "storeVolumes": "1 x 118 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "33,542 / 16,771",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6id.xlarge",
+    "storeVolumes": "1 x 237 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "67,083 / 33,542",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6id.2xlarge",
+    "storeVolumes": "1 x 474 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "134,167 / 67,084",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6id.4xlarge",
+    "storeVolumes": "1 x 950 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "268,333 / 134,167",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6id.8xlarge",
+    "storeVolumes": "1 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "536,666 / 268,334",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6id.12xlarge",
+    "storeVolumes": "2 x 1425 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "804,998 / 402,500",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6id.16xlarge",
+    "storeVolumes": "2 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,073,332 / 536,668",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6id.24xlarge",
+    "storeVolumes": "4 x 1425 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,609,996 / 805,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6id.32xlarge",
+    "storeVolumes": "4 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "2,146,664 / 1,073,336",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6id.metal",
+    "storeVolumes": "4 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "2,146,664 / 1,073,336",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6idn.large",
+    "storeVolumes": "1 x 118 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "33,542 / 16,771",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6idn.xlarge",
+    "storeVolumes": "1 x 237 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "67,083 / 33,542",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6idn.2xlarge",
+    "storeVolumes": "1 x 474 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "134,167 / 67,084",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6idn.4xlarge",
+    "storeVolumes": "1 x 950 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "268,333 / 134,167",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6idn.8xlarge",
+    "storeVolumes": "1 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "536,666 / 268,334",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6idn.12xlarge",
+    "storeVolumes": "2 x 1425 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "804,998 / 402,500",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6idn.16xlarge",
+    "storeVolumes": "2 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,073,332 / 536,668",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6idn.24xlarge",
+    "storeVolumes": "4 x 1425 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,609,996 / 805,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6idn.32xlarge",
+    "storeVolumes": "4 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "2,146,664 / 1,073,336",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m6idn.metal",
+    "storeVolumes": "4 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "2,146,664 / 1,073,336",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m7gd.medium",
+    "storeVolumes": "1 x 59 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "16,771 / 8,385",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m7gd.large",
+    "storeVolumes": "1 x 118 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "33,542 / 16,771",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m7gd.xlarge",
+    "storeVolumes": "1 x 237 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "67,083 / 33,542",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m7gd.2xlarge",
+    "storeVolumes": "1 x 474 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "134,167 / 67,084",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m7gd.4xlarge",
+    "storeVolumes": "1 x 950 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "268,333 / 134,167",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m7gd.8xlarge",
+    "storeVolumes": "1 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "536,666 / 268,334",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m7gd.12xlarge",
+    "storeVolumes": "2 x 1425 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "804,998 / 402,500",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m7gd.16xlarge",
+    "storeVolumes": "2 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,073,332 / 536,668",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m7gd.metal",
+    "storeVolumes": "2 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,073,332 / 536,668",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m8gd.medium",
+    "storeVolumes": "1 x 59 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "16,771 / 8,385",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m8gd.large",
+    "storeVolumes": "1 x 118 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "33,542 / 16,771",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m8gd.xlarge",
+    "storeVolumes": "1 x 237 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "67,083 / 33,542",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m8gd.2xlarge",
+    "storeVolumes": "1 x 474 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "134,167 / 67,084",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m8gd.4xlarge",
+    "storeVolumes": "1 x 950 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "268,333 / 134,167",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m8gd.8xlarge",
+    "storeVolumes": "1 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "536,666 / 268,334",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m8gd.12xlarge",
+    "storeVolumes": "3 x 950 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "804,999 / 402,501",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m8gd.16xlarge",
+    "storeVolumes": "2 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,073,332 / 536,668",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m8gd.24xlarge",
+    "storeVolumes": "3 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,609,998 / 805,002",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m8gd.48xlarge",
+    "storeVolumes": "6 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "3,219,996 / 1,610,004",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m8gd.metal-24xl",
+    "storeVolumes": "3 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "1,609,998 / 805,002",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "m8gd.metal-48xl",
+    "storeVolumes": "6 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "3,219,996 / 1,610,004",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "mac-m4.metal",
+    "storeVolumes": "1 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "550,000 / 275,000",
+    "trimSupport": true
+  },
+  {
+    "instanceType": "mac-m4pro.metal",
+    "storeVolumes": "1 x 1900 GB",
+    "storeType": "NVMe SSD",
+    "randomIOPs": "550,000 / 275,000",
+    "trimSupport": true
+  }
+]
