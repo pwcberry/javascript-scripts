@@ -150,28 +150,26 @@ describe("turndown.js", () => {
             });
         });
         describe("lists", () => {
-            it("should collect an unordered list", () => {
-                JSDOM.fromFile(getFixturePath("unordered-list.html")).then((dom) => {
-                    globalThis.Element = dom.window.Element;
-                    globalThis.Node = dom.window.Node;
+            it("should collect an unordered list", async () => {
+                const dom = await JSDOM.fromFile(getFixturePath("unordered-list.html"));
+                globalThis.Element = dom.window.Element;
+                globalThis.Node = dom.window.Node;
 
-                    const c = new Collector(dom.window.document.body);
-                    c.collect();
+                const c = new Collector(dom.window.document.body);
+                c.collect();
 
-                    expect(c.content).to.equal("- Item 1\n- Item 2\n- Item 3\n");
-                });
+                expect(c.content).to.equal("- Item 1\n- Item 2\n- Item 3\n");
             });
 
-            it("should collect an ordered list", () => {
-                JSDOM.fromFile(getFixturePath("ordered-list.html")).then((dom) => {
-                    globalThis.Element = dom.window.Element;
-                    globalThis.Node = dom.window.Node;
+            it("should collect an ordered list", async () => {
+                const dom = await JSDOM.fromFile(getFixturePath("ordered-list.html"));
+                globalThis.Element = dom.window.Element;
+                globalThis.Node = dom.window.Node;
 
-                    const c = new Collector(dom.window.document.body);
-                    c.collect();
+                const c = new Collector(dom.window.document.body);
+                c.collect();
 
-                    expect(c.content).to.equal("1. Item 1\n2. Item 2\n3. Item 3\n");
-                });
+                expect(c.content).to.equal("1. Item 1\n2. Item 2\n3. Item 3\n");
             });
         });
     });
