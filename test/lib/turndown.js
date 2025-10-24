@@ -46,18 +46,7 @@ describe("turndown.js", () => {
     });
 
     describe("Collector", () => {
-        describe("paragraphs", () => {
-            it("should collect a paragraph of text", () => {
-                const dom = new JSDOM(`<!DOCTYPE html><body><p>This is a paragraph.</p></body>`);
-                globalThis.Element = dom.window.Element;
-                globalThis.Node = dom.window.Node;
-
-                const c = new Collector(dom.window.document.body);
-                c.collect();
-
-                expect(c.content).to.equal("This is a paragraph.\n\n");
-            });
-
+        describe("headings", () => {
             it("should collect a first-level heading", () => {
                 const dom = new JSDOM(`<!DOCTYPE html><body><main><h1>This is a heading.</h1></main></body>`);
                 globalThis.Element = dom.window.Element;
@@ -100,6 +89,18 @@ describe("turndown.js", () => {
                 c.collect();
 
                 expect(c.content).to.equal("# This is a heading.\n\nThis is a paragraph.\n\n");
+            });
+        });
+        describe("paragraphs", () => {
+            it("should collect a paragraph of text", () => {
+                const dom = new JSDOM(`<!DOCTYPE html><body><p>This is a paragraph.</p></body>`);
+                globalThis.Element = dom.window.Element;
+                globalThis.Node = dom.window.Node;
+
+                const c = new Collector(dom.window.document.body);
+                c.collect();
+
+                expect(c.content).to.equal("This is a paragraph.\n\n");
             });
 
             it("should collect a paragraph and its emphasized text", () => {
@@ -169,7 +170,7 @@ describe("turndown.js", () => {
                     const c = new Collector(dom.window.document.body);
                     c.collect();
 
-                    expect(c.content).to.equal("1. Item 1\n1. Item 2\n1. Item 3\n");
+                    expect(c.content).to.equal("1. Item 1\n2. Item 2\n3. Item 3\n");
                 });
             });
         });
