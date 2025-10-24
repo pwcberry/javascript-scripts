@@ -46,41 +46,42 @@ describe("turndown.js", () => {
     });
 
     describe("Collector", () => {
-        it("should collect a paragraph of text", () => {
-            const dom = new JSDOM(`<!DOCTYPE html><body><p>This is a paragraph.</p></body>`);
-            globalThis.Element = dom.window.Element;
-            globalThis.Node = dom.window.Node;
+        describe("paragraphs", () => {
+            it("should collect a paragraph of text", () => {
+                const dom = new JSDOM(`<!DOCTYPE html><body><p>This is a paragraph.</p></body>`);
+                globalThis.Element = dom.window.Element;
+                globalThis.Node = dom.window.Node;
 
-            const c = new Collector(dom.window.document.body);
-            c.collect();
+                const c = new Collector(dom.window.document.body);
+                c.collect();
 
-            expect(c.content).to.equal("This is a paragraph.\n\n");
-        });
+                expect(c.content).to.equal("This is a paragraph.\n\n");
+            });
 
-        it("should collect a first-level heading", () => {
-            const dom = new JSDOM(`<!DOCTYPE html><body><main><h1>This is a heading.</h1></main></body>`);
-            globalThis.Element = dom.window.Element;
-            globalThis.Node = dom.window.Node;
+            it("should collect a first-level heading", () => {
+                const dom = new JSDOM(`<!DOCTYPE html><body><main><h1>This is a heading.</h1></main></body>`);
+                globalThis.Element = dom.window.Element;
+                globalThis.Node = dom.window.Node;
 
-            const c = new Collector(dom.window.document.body);
-            c.collect();
+                const c = new Collector(dom.window.document.body);
+                c.collect();
 
-            expect(c.content).to.equal("# This is a heading.\n\n");
-        });
+                expect(c.content).to.equal("# This is a heading.\n\n");
+            });
 
-        it("should collect a second-level heading", () => {
-            const dom = new JSDOM(`<!DOCTYPE html><body><main><h2>This is a heading.</h2></main></body>`);
-            globalThis.Element = dom.window.Element;
-            globalThis.Node = dom.window.Node;
+            it("should collect a second-level heading", () => {
+                const dom = new JSDOM(`<!DOCTYPE html><body><main><h2>This is a heading.</h2></main></body>`);
+                globalThis.Element = dom.window.Element;
+                globalThis.Node = dom.window.Node;
 
-            const c = new Collector(dom.window.document.body);
-            c.collect();
+                const c = new Collector(dom.window.document.body);
+                c.collect();
 
-            expect(c.content).to.equal("## This is a heading.\n\n");
-        });
+                expect(c.content).to.equal("## This is a heading.\n\n");
+            });
 
-        it("should collect a heading and a paragraph of text", () => {
-            const dom = new JSDOM(`
+            it("should collect a heading and a paragraph of text", () => {
+                const dom = new JSDOM(`
           <!DOCTYPE html>
           <body>
             <header><h1>This is a heading.</h1></header>
@@ -92,57 +93,85 @@ describe("turndown.js", () => {
           </body>
             `);
 
-            globalThis.Element = dom.window.Element;
-            globalThis.Node = dom.window.Node;
+                globalThis.Element = dom.window.Element;
+                globalThis.Node = dom.window.Node;
 
-            const c = new Collector(dom.window.document.body);
-            c.collect();
+                const c = new Collector(dom.window.document.body);
+                c.collect();
 
-            expect(c.content).to.equal("# This is a heading.\n\nThis is a paragraph.\n\n");
+                expect(c.content).to.equal("# This is a heading.\n\nThis is a paragraph.\n\n");
+            });
+
+            it("should collect a paragraph and its emphasized text", () => {
+                const dom = new JSDOM(`<!DOCTYPE html><body><p>This is a <em>paragraph</em>.</p></body>`);
+                globalThis.Element = dom.window.Element;
+                globalThis.Node = dom.window.Node;
+
+                const c = new Collector(dom.window.document.body);
+                c.collect();
+
+                expect(c.content).to.equal("This is a _paragraph_.\n\n");
+            });
+
+            it("should collect a paragraph and its bold text", () => {
+                const dom = new JSDOM(`<!DOCTYPE html><body><p><strong>This</strong> is a paragraph.</p></body>`);
+                globalThis.Element = dom.window.Element;
+                globalThis.Node = dom.window.Node;
+
+                const c = new Collector(dom.window.document.body);
+                c.collect();
+
+                expect(c.content).to.equal("**This** is a paragraph.\n\n");
+            });
+
+            it("should collect a paragraph and its inline styles", () => {
+                const dom = new JSDOM(
+                    `<!DOCTYPE html><body><p>This is a <em><strong>paragraph</strong></em>.</p></body>`
+                );
+                globalThis.Element = dom.window.Element;
+                globalThis.Node = dom.window.Node;
+
+                const c = new Collector(dom.window.document.body);
+                c.collect();
+
+                expect(c.content).to.equal("This is a _**paragraph**_.\n\n");
+            });
+
+            it("should collect a code snippets in a paragraph", () => {
+                const dom = new JSDOM(`<!DOCTYPE html><body><p>This is a <code>paragraph</code>.</p></body>`);
+                globalThis.Element = dom.window.Element;
+                globalThis.Node = dom.window.Node;
+
+                const c = new Collector(dom.window.document.body);
+                c.collect();
+
+                expect(c.content).to.equal("This is a `paragraph`.\n\n");
+            });
         });
+        describe("lists", () => {
+            it("should collect an unordered list", () => {
+                JSDOM.fromFile(getFixturePath("unordered-list.html")).then((dom) => {
+                    globalThis.Element = dom.window.Element;
+                    globalThis.Node = dom.window.Node;
 
-        it("should collect a paragraph and its emphasized text", () => {
-            const dom = new JSDOM(`<!DOCTYPE html><body><p>This is a <em>paragraph</em>.</p></body>`);
-            globalThis.Element = dom.window.Element;
-            globalThis.Node = dom.window.Node;
+                    const c = new Collector(dom.window.document.body);
+                    c.collect();
 
-            const c = new Collector(dom.window.document.body);
-            c.collect();
+                    expect(c.content).to.equal("- Item 1\n- Item 2\n- Item 3\n");
+                });
+            });
 
-            expect(c.content).to.equal("This is a _paragraph_.\n\n");
-        });
+            it("should collect an ordered list", () => {
+                JSDOM.fromFile(getFixturePath("ordered-list.html")).then((dom) => {
+                    globalThis.Element = dom.window.Element;
+                    globalThis.Node = dom.window.Node;
 
-        it("should collect a paragraph and its bold text", () => {
-            const dom = new JSDOM(`<!DOCTYPE html><body><p><strong>This</strong> is a paragraph.</p></body>`);
-            globalThis.Element = dom.window.Element;
-            globalThis.Node = dom.window.Node;
+                    const c = new Collector(dom.window.document.body);
+                    c.collect();
 
-            const c = new Collector(dom.window.document.body);
-            c.collect();
-
-            expect(c.content).to.equal("**This** is a paragraph.\n\n");
-        });
-
-        it("should collect a paragraph and its inline styles", () => {
-            const dom = new JSDOM(`<!DOCTYPE html><body><p>This is a <em><strong>paragraph</strong></em>.</p></body>`);
-            globalThis.Element = dom.window.Element;
-            globalThis.Node = dom.window.Node;
-
-            const c = new Collector(dom.window.document.body);
-            c.collect();
-
-            expect(c.content).to.equal("This is a _**paragraph**_.\n\n");
-        });
-
-        it("should collect a code snippets in a paragraph", () => {
-            const dom = new JSDOM(`<!DOCTYPE html><body><p>This is a <code>paragraph</code>.</p></body>`);
-            globalThis.Element = dom.window.Element;
-            globalThis.Node = dom.window.Node;
-
-            const c = new Collector(dom.window.document.body);
-            c.collect();
-
-            expect(c.content).to.equal("This is a `paragraph`.\n\n");
+                    expect(c.content).to.equal("1. Item 1\n1. Item 2\n1. Item 3\n");
+                });
+            });
         });
     });
 });
