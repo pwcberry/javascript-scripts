@@ -1,444 +1,430 @@
 [
-  {
-    "familyName": "M5",
-    "types": [
-      "m5.large",
-      "m5.xlarge",
-      "m5.2xlarge",
-      "m5.4xlarge",
-      "m5.8xlarge",
-      "m5.12xlarge",
-      "m5.16xlarge",
-      "m5.24xlarge",
-      "m5.metal"
-    ]
-  },
-  {
-    "familyName": "M5a",
-    "types": [
-      "m5a.large",
-      "m5a.xlarge",
-      "m5a.2xlarge",
-      "m5a.4xlarge",
-      "m5a.8xlarge",
-      "m5a.12xlarge",
-      "m5a.16xlarge",
-      "m5a.24xlarge"
-    ]
-  },
-  {
-    "familyName": "M5ad",
-    "types": [
-      "m5ad.large",
-      "m5ad.xlarge",
-      "m5ad.2xlarge",
-      "m5ad.4xlarge",
-      "m5ad.8xlarge",
-      "m5ad.12xlarge",
-      "m5ad.16xlarge",
-      "m5ad.24xlarge"
-    ]
-  },
-  {
-    "familyName": "M5d",
-    "types": [
-      "m5d.large",
-      "m5d.xlarge",
-      "m5d.2xlarge",
-      "m5d.4xlarge",
-      "m5d.8xlarge",
-      "m5d.12xlarge",
-      "m5d.16xlarge",
-      "m5d.24xlarge",
-      "m5d.metal"
-    ]
-  },
-  {
-    "familyName": "M5dn",
-    "types": [
-      "m5dn.large",
-      "m5dn.xlarge",
-      "m5dn.2xlarge",
-      "m5dn.4xlarge",
-      "m5dn.8xlarge",
-      "m5dn.12xlarge",
-      "m5dn.16xlarge",
-      "m5dn.24xlarge",
-      "m5dn.metal"
-    ]
-  },
-  {
-    "familyName": "M5n",
-    "types": [
-      "m5n.large",
-      "m5n.xlarge",
-      "m5n.2xlarge",
-      "m5n.4xlarge",
-      "m5n.8xlarge",
-      "m5n.12xlarge",
-      "m5n.16xlarge",
-      "m5n.24xlarge",
-      "m5n.metal"
-    ]
-  },
-  {
-    "familyName": "M5zn",
-    "types": [
-      "m5zn.large",
-      "m5zn.xlarge",
-      "m5zn.2xlarge",
-      "m5zn.3xlarge",
-      "m5zn.6xlarge",
-      "m5zn.12xlarge",
-      "m5zn.metal"
-    ]
-  },
-  {
-    "familyName": "M6a",
-    "types": [
-      "m6a.large",
-      "m6a.xlarge",
-      "m6a.2xlarge",
-      "m6a.4xlarge",
-      "m6a.8xlarge",
-      "m6a.12xlarge",
-      "m6a.16xlarge",
-      "m6a.24xlarge",
-      "m6a.32xlarge",
-      "m6a.48xlarge",
-      "m6a.metal"
-    ]
-  },
-  {
-    "familyName": "M6g",
-    "types": [
-      "m6g.medium",
-      "m6g.large",
-      "m6g.xlarge",
-      "m6g.2xlarge",
-      "m6g.4xlarge",
-      "m6g.8xlarge",
-      "m6g.12xlarge",
-      "m6g.16xlarge",
-      "m6g.metal"
-    ]
-  },
-  {
-    "familyName": "M6gd",
-    "types": [
-      "m6gd.medium",
-      "m6gd.large",
-      "m6gd.xlarge",
-      "m6gd.2xlarge",
-      "m6gd.4xlarge",
-      "m6gd.8xlarge",
-      "m6gd.12xlarge",
-      "m6gd.16xlarge",
-      "m6gd.metal"
-    ]
-  },
-  {
-    "familyName": "M6i",
-    "types": [
-      "m6i.large",
-      "m6i.xlarge",
-      "m6i.2xlarge",
-      "m6i.4xlarge",
-      "m6i.8xlarge",
-      "m6i.12xlarge",
-      "m6i.16xlarge",
-      "m6i.24xlarge",
-      "m6i.32xlarge",
-      "m6i.metal"
-    ]
-  },
-  {
-    "familyName": "M6id",
-    "types": [
-      "m6id.large",
-      "m6id.xlarge",
-      "m6id.2xlarge",
-      "m6id.4xlarge",
-      "m6id.8xlarge",
-      "m6id.12xlarge",
-      "m6id.16xlarge",
-      "m6id.24xlarge",
-      "m6id.32xlarge",
-      "m6id.metal"
-    ]
-  },
-  {
-    "familyName": "M6idn",
-    "types": [
-      "m6idn.large",
-      "m6idn.xlarge",
-      "m6idn.2xlarge",
-      "m6idn.4xlarge",
-      "m6idn.8xlarge",
-      "m6idn.12xlarge",
-      "m6idn.16xlarge",
-      "m6idn.24xlarge",
-      "m6idn.32xlarge",
-      "m6idn.metal"
-    ]
-  },
-  {
-    "familyName": "M6in",
-    "types": [
-      "m6in.large",
-      "m6in.xlarge",
-      "m6in.2xlarge",
-      "m6in.4xlarge",
-      "m6in.8xlarge",
-      "m6in.12xlarge",
-      "m6in.16xlarge",
-      "m6in.24xlarge",
-      "m6in.32xlarge",
-      "m6in.metal"
-    ]
-  },
-  {
-    "familyName": "M7a",
-    "types": [
-      "m7a.medium",
-      "m7a.large",
-      "m7a.xlarge",
-      "m7a.2xlarge",
-      "m7a.4xlarge",
-      "m7a.8xlarge",
-      "m7a.12xlarge",
-      "m7a.16xlarge",
-      "m7a.24xlarge",
-      "m7a.32xlarge",
-      "m7a.48xlarge",
-      "m7a.metal-48xl"
-    ]
-  },
-  {
-    "familyName": "M7g",
-    "types": [
-      "m7g.medium",
-      "m7g.large",
-      "m7g.xlarge",
-      "m7g.2xlarge",
-      "m7g.4xlarge",
-      "m7g.8xlarge",
-      "m7g.12xlarge",
-      "m7g.16xlarge",
-      "m7g.metal"
-    ]
-  },
-  {
-    "familyName": "M7gd",
-    "types": [
-      "m7gd.medium",
-      "m7gd.large",
-      "m7gd.xlarge",
-      "m7gd.2xlarge",
-      "m7gd.4xlarge",
-      "m7gd.8xlarge",
-      "m7gd.12xlarge",
-      "m7gd.16xlarge",
-      "m7gd.metal"
-    ]
-  },
-  {
-    "familyName": "M7i",
-    "types": [
-      "m7i.large",
-      "m7i.xlarge",
-      "m7i.2xlarge",
-      "m7i.4xlarge",
-      "m7i.8xlarge",
-      "m7i.12xlarge",
-      "m7i.16xlarge",
-      "m7i.24xlarge",
-      "m7i.48xlarge",
-      "m7i.metal-24xl",
-      "m7i.metal-48xl"
-    ]
-  },
-  {
-    "familyName": "M7i-flex",
-    "types": [
-      "m7i-flex.large",
-      "m7i-flex.xlarge",
-      "m7i-flex.2xlarge",
-      "m7i-flex.4xlarge",
-      "m7i-flex.8xlarge",
-      "m7i-flex.12xlarge",
-      "m7i-flex.16xlarge"
-    ]
-  },
-  {
-    "familyName": "M8a",
-    "types": [
-      "m8a.medium",
-      "m8a.large",
-      "m8a.xlarge",
-      "m8a.2xlarge",
-      "m8a.4xlarge",
-      "m8a.8xlarge",
-      "m8a.12xlarge",
-      "m8a.16xlarge",
-      "m8a.24xlarge",
-      "m8a.48xlarge",
-      "m8a.metal-24xl",
-      "m8a.metal-48xl"
-    ]
-  },
-  {
-    "familyName": "M8g",
-    "types": [
-      "m8g.medium",
-      "m8g.large",
-      "m8g.xlarge",
-      "m8g.2xlarge",
-      "m8g.4xlarge",
-      "m8g.8xlarge",
-      "m8g.12xlarge",
-      "m8g.16xlarge",
-      "m8g.24xlarge",
-      "m8g.48xlarge",
-      "m8g.metal-24xl",
-      "m8g.metal-48xl"
-    ]
-  },
-  {
-    "familyName": "M8gd",
-    "types": [
-      "m8gd.medium",
-      "m8gd.large",
-      "m8gd.xlarge",
-      "m8gd.2xlarge",
-      "m8gd.4xlarge",
-      "m8gd.8xlarge",
-      "m8gd.12xlarge",
-      "m8gd.16xlarge",
-      "m8gd.24xlarge",
-      "m8gd.48xlarge",
-      "m8gd.metal-24xl",
-      "m8gd.metal-48xl"
-    ]
-  },
-  {
-    "familyName": "M8i",
-    "types": [
-      "m8i.large",
-      "m8i.xlarge",
-      "m8i.2xlarge",
-      "m8i.4xlarge",
-      "m8i.8xlarge",
-      "m8i.12xlarge",
-      "m8i.16xlarge",
-      "m8i.24xlarge",
-      "m8i.32xlarge",
-      "m8i.48xlarge",
-      "m8i.96xlarge",
-      "m8i.metal-48xl",
-      "m8i.metal-96xl"
-    ]
-  },
-  {
-    "familyName": "M8i-flex",
-    "types": [
-      "m8i-flex.large",
-      "m8i-flex.xlarge",
-      "m8i-flex.2xlarge",
-      "m8i-flex.4xlarge",
-      "m8i-flex.8xlarge",
-      "m8i-flex.12xlarge",
-      "m8i-flex.16xlarge"
-    ]
-  },
-  {
-    "familyName": "Mac1",
-    "types": [
-      "mac1.metal"
-    ]
-  },
-  {
-    "familyName": "Mac2",
-    "types": [
-      "mac2.metal"
-    ]
-  },
-  {
-    "familyName": "Mac2-m1ultra",
-    "types": [
-      "mac2-m1ultra.metal"
-    ]
-  },
-  {
-    "familyName": "Mac2-m2",
-    "types": [
-      "mac2-m2.metal"
-    ]
-  },
-  {
-    "familyName": "Mac2-m2pro",
-    "types": [
-      "mac2-m2pro.metal"
-    ]
-  },
-  {
-    "familyName": "Mac-m4",
-    "types": [
-      "mac-m4.metal"
-    ]
-  },
-  {
-    "familyName": "Mac-m4pro",
-    "types": [
-      "mac-m4pro.metal"
-    ]
-  },
-  {
-    "familyName": "T2",
-    "types": [
-      "t2.nano",
-      "t2.micro",
-      "t2.small",
-      "t2.medium",
-      "t2.large",
-      "t2.xlarge",
-      "t2.2xlarge"
-    ]
-  },
-  {
-    "familyName": "T3",
-    "types": [
-      "t3.nano",
-      "t3.micro",
-      "t3.small",
-      "t3.medium",
-      "t3.large",
-      "t3.xlarge",
-      "t3.2xlarge"
-    ]
-  },
-  {
-    "familyName": "T3a",
-    "types": [
-      "t3a.nano",
-      "t3a.micro",
-      "t3a.small",
-      "t3a.medium",
-      "t3a.large",
-      "t3a.xlarge",
-      "t3a.2xlarge"
-    ]
-  },
-  {
-    "familyName": "T4g",
-    "types": [
-      "t4g.nano",
-      "t4g.micro",
-      "t4g.small",
-      "t4g.medium",
-      "t4g.large",
-      "t4g.xlarge",
-      "t4g.2xlarge"
-    ]
-  }
+    {
+        "familyName": "M5",
+        "types": [
+            "m5.large",
+            "m5.xlarge",
+            "m5.2xlarge",
+            "m5.4xlarge",
+            "m5.8xlarge",
+            "m5.12xlarge",
+            "m5.16xlarge",
+            "m5.24xlarge",
+            "m5.metal"
+        ]
+    },
+    {
+        "familyName": "M5a",
+        "types": [
+            "m5a.large",
+            "m5a.xlarge",
+            "m5a.2xlarge",
+            "m5a.4xlarge",
+            "m5a.8xlarge",
+            "m5a.12xlarge",
+            "m5a.16xlarge",
+            "m5a.24xlarge"
+        ]
+    },
+    {
+        "familyName": "M5ad",
+        "types": [
+            "m5ad.large",
+            "m5ad.xlarge",
+            "m5ad.2xlarge",
+            "m5ad.4xlarge",
+            "m5ad.8xlarge",
+            "m5ad.12xlarge",
+            "m5ad.16xlarge",
+            "m5ad.24xlarge"
+        ]
+    },
+    {
+        "familyName": "M5d",
+        "types": [
+            "m5d.large",
+            "m5d.xlarge",
+            "m5d.2xlarge",
+            "m5d.4xlarge",
+            "m5d.8xlarge",
+            "m5d.12xlarge",
+            "m5d.16xlarge",
+            "m5d.24xlarge",
+            "m5d.metal"
+        ]
+    },
+    {
+        "familyName": "M5dn",
+        "types": [
+            "m5dn.large",
+            "m5dn.xlarge",
+            "m5dn.2xlarge",
+            "m5dn.4xlarge",
+            "m5dn.8xlarge",
+            "m5dn.12xlarge",
+            "m5dn.16xlarge",
+            "m5dn.24xlarge",
+            "m5dn.metal"
+        ]
+    },
+    {
+        "familyName": "M5n",
+        "types": [
+            "m5n.large",
+            "m5n.xlarge",
+            "m5n.2xlarge",
+            "m5n.4xlarge",
+            "m5n.8xlarge",
+            "m5n.12xlarge",
+            "m5n.16xlarge",
+            "m5n.24xlarge",
+            "m5n.metal"
+        ]
+    },
+    {
+        "familyName": "M5zn",
+        "types": [
+            "m5zn.large",
+            "m5zn.xlarge",
+            "m5zn.2xlarge",
+            "m5zn.3xlarge",
+            "m5zn.6xlarge",
+            "m5zn.12xlarge",
+            "m5zn.metal"
+        ]
+    },
+    {
+        "familyName": "M6a",
+        "types": [
+            "m6a.large",
+            "m6a.xlarge",
+            "m6a.2xlarge",
+            "m6a.4xlarge",
+            "m6a.8xlarge",
+            "m6a.12xlarge",
+            "m6a.16xlarge",
+            "m6a.24xlarge",
+            "m6a.32xlarge",
+            "m6a.48xlarge",
+            "m6a.metal"
+        ]
+    },
+    {
+        "familyName": "M6g",
+        "types": [
+            "m6g.medium",
+            "m6g.large",
+            "m6g.xlarge",
+            "m6g.2xlarge",
+            "m6g.4xlarge",
+            "m6g.8xlarge",
+            "m6g.12xlarge",
+            "m6g.16xlarge",
+            "m6g.metal"
+        ]
+    },
+    {
+        "familyName": "M6gd",
+        "types": [
+            "m6gd.medium",
+            "m6gd.large",
+            "m6gd.xlarge",
+            "m6gd.2xlarge",
+            "m6gd.4xlarge",
+            "m6gd.8xlarge",
+            "m6gd.12xlarge",
+            "m6gd.16xlarge",
+            "m6gd.metal"
+        ]
+    },
+    {
+        "familyName": "M6i",
+        "types": [
+            "m6i.large",
+            "m6i.xlarge",
+            "m6i.2xlarge",
+            "m6i.4xlarge",
+            "m6i.8xlarge",
+            "m6i.12xlarge",
+            "m6i.16xlarge",
+            "m6i.24xlarge",
+            "m6i.32xlarge",
+            "m6i.metal"
+        ]
+    },
+    {
+        "familyName": "M6id",
+        "types": [
+            "m6id.large",
+            "m6id.xlarge",
+            "m6id.2xlarge",
+            "m6id.4xlarge",
+            "m6id.8xlarge",
+            "m6id.12xlarge",
+            "m6id.16xlarge",
+            "m6id.24xlarge",
+            "m6id.32xlarge",
+            "m6id.metal"
+        ]
+    },
+    {
+        "familyName": "M6idn",
+        "types": [
+            "m6idn.large",
+            "m6idn.xlarge",
+            "m6idn.2xlarge",
+            "m6idn.4xlarge",
+            "m6idn.8xlarge",
+            "m6idn.12xlarge",
+            "m6idn.16xlarge",
+            "m6idn.24xlarge",
+            "m6idn.32xlarge",
+            "m6idn.metal"
+        ]
+    },
+    {
+        "familyName": "M6in",
+        "types": [
+            "m6in.large",
+            "m6in.xlarge",
+            "m6in.2xlarge",
+            "m6in.4xlarge",
+            "m6in.8xlarge",
+            "m6in.12xlarge",
+            "m6in.16xlarge",
+            "m6in.24xlarge",
+            "m6in.32xlarge",
+            "m6in.metal"
+        ]
+    },
+    {
+        "familyName": "M7a",
+        "types": [
+            "m7a.medium",
+            "m7a.large",
+            "m7a.xlarge",
+            "m7a.2xlarge",
+            "m7a.4xlarge",
+            "m7a.8xlarge",
+            "m7a.12xlarge",
+            "m7a.16xlarge",
+            "m7a.24xlarge",
+            "m7a.32xlarge",
+            "m7a.48xlarge",
+            "m7a.metal-48xl"
+        ]
+    },
+    {
+        "familyName": "M7g",
+        "types": [
+            "m7g.medium",
+            "m7g.large",
+            "m7g.xlarge",
+            "m7g.2xlarge",
+            "m7g.4xlarge",
+            "m7g.8xlarge",
+            "m7g.12xlarge",
+            "m7g.16xlarge",
+            "m7g.metal"
+        ]
+    },
+    {
+        "familyName": "M7gd",
+        "types": [
+            "m7gd.medium",
+            "m7gd.large",
+            "m7gd.xlarge",
+            "m7gd.2xlarge",
+            "m7gd.4xlarge",
+            "m7gd.8xlarge",
+            "m7gd.12xlarge",
+            "m7gd.16xlarge",
+            "m7gd.metal"
+        ]
+    },
+    {
+        "familyName": "M7i",
+        "types": [
+            "m7i.large",
+            "m7i.xlarge",
+            "m7i.2xlarge",
+            "m7i.4xlarge",
+            "m7i.8xlarge",
+            "m7i.12xlarge",
+            "m7i.16xlarge",
+            "m7i.24xlarge",
+            "m7i.48xlarge",
+            "m7i.metal-24xl",
+            "m7i.metal-48xl"
+        ]
+    },
+    {
+        "familyName": "M7i-flex",
+        "types": [
+            "m7i-flex.large",
+            "m7i-flex.xlarge",
+            "m7i-flex.2xlarge",
+            "m7i-flex.4xlarge",
+            "m7i-flex.8xlarge",
+            "m7i-flex.12xlarge",
+            "m7i-flex.16xlarge"
+        ]
+    },
+    {
+        "familyName": "M8a",
+        "types": [
+            "m8a.medium",
+            "m8a.large",
+            "m8a.xlarge",
+            "m8a.2xlarge",
+            "m8a.4xlarge",
+            "m8a.8xlarge",
+            "m8a.12xlarge",
+            "m8a.16xlarge",
+            "m8a.24xlarge",
+            "m8a.48xlarge",
+            "m8a.metal-24xl",
+            "m8a.metal-48xl"
+        ]
+    },
+    {
+        "familyName": "M8g",
+        "types": [
+            "m8g.medium",
+            "m8g.large",
+            "m8g.xlarge",
+            "m8g.2xlarge",
+            "m8g.4xlarge",
+            "m8g.8xlarge",
+            "m8g.12xlarge",
+            "m8g.16xlarge",
+            "m8g.24xlarge",
+            "m8g.48xlarge",
+            "m8g.metal-24xl",
+            "m8g.metal-48xl"
+        ]
+    },
+    {
+        "familyName": "M8gd",
+        "types": [
+            "m8gd.medium",
+            "m8gd.large",
+            "m8gd.xlarge",
+            "m8gd.2xlarge",
+            "m8gd.4xlarge",
+            "m8gd.8xlarge",
+            "m8gd.12xlarge",
+            "m8gd.16xlarge",
+            "m8gd.24xlarge",
+            "m8gd.48xlarge",
+            "m8gd.metal-24xl",
+            "m8gd.metal-48xl"
+        ]
+    },
+    {
+        "familyName": "M8i",
+        "types": [
+            "m8i.large",
+            "m8i.xlarge",
+            "m8i.2xlarge",
+            "m8i.4xlarge",
+            "m8i.8xlarge",
+            "m8i.12xlarge",
+            "m8i.16xlarge",
+            "m8i.24xlarge",
+            "m8i.32xlarge",
+            "m8i.48xlarge",
+            "m8i.96xlarge",
+            "m8i.metal-48xl",
+            "m8i.metal-96xl"
+        ]
+    },
+    {
+        "familyName": "M8i-flex",
+        "types": [
+            "m8i-flex.large",
+            "m8i-flex.xlarge",
+            "m8i-flex.2xlarge",
+            "m8i-flex.4xlarge",
+            "m8i-flex.8xlarge",
+            "m8i-flex.12xlarge",
+            "m8i-flex.16xlarge"
+        ]
+    },
+    {
+        "familyName": "Mac1",
+        "types": ["mac1.metal"]
+    },
+    {
+        "familyName": "Mac2",
+        "types": ["mac2.metal"]
+    },
+    {
+        "familyName": "Mac2-m1ultra",
+        "types": ["mac2-m1ultra.metal"]
+    },
+    {
+        "familyName": "Mac2-m2",
+        "types": ["mac2-m2.metal"]
+    },
+    {
+        "familyName": "Mac2-m2pro",
+        "types": ["mac2-m2pro.metal"]
+    },
+    {
+        "familyName": "Mac-m4",
+        "types": ["mac-m4.metal"]
+    },
+    {
+        "familyName": "Mac-m4pro",
+        "types": ["mac-m4pro.metal"]
+    },
+    {
+        "familyName": "T2",
+        "types": [
+            "t2.nano",
+            "t2.micro",
+            "t2.small",
+            "t2.medium",
+            "t2.large",
+            "t2.xlarge",
+            "t2.2xlarge"
+        ]
+    },
+    {
+        "familyName": "T3",
+        "types": [
+            "t3.nano",
+            "t3.micro",
+            "t3.small",
+            "t3.medium",
+            "t3.large",
+            "t3.xlarge",
+            "t3.2xlarge"
+        ]
+    },
+    {
+        "familyName": "T3a",
+        "types": [
+            "t3a.nano",
+            "t3a.micro",
+            "t3a.small",
+            "t3a.medium",
+            "t3a.large",
+            "t3a.xlarge",
+            "t3a.2xlarge"
+        ]
+    },
+    {
+        "familyName": "T4g",
+        "types": [
+            "t4g.nano",
+            "t4g.micro",
+            "t4g.small",
+            "t4g.medium",
+            "t4g.large",
+            "t4g.xlarge",
+            "t4g.2xlarge"
+        ]
+    }
 ]

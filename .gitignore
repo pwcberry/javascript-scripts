@@ -146,5 +146,6 @@ dist
 ## Local
 .idea/
 .vscode/
+.vs/
 .yarn/
 yarn.lock

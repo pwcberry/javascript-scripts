@@ -1,0 +1,610 @@
+[
+  {
+    "name": "Aaliyah",
+    "classic": false
+  },
+  {
+    "name": "Abigail",
+    "classic": true
+  },
+  {
+    "name": "Ada",
+    "classic": true
+  },
+  {
+    "name": "Adele",
+    "classic": true
+  },
+  {
+    "name": "Alexandra",
+    "classic": true
+  },
+  {
+    "name": "Alice",
+    "classic": true
+  },
+  {
+    "name": "Alison",
+    "classic": true
+  },
+  {
+    "name": "Amara",
+    "classic": false
+  },
+  {
+    "name": "Amelia",
+    "classic": true
+  },
+  {
+    "name": "Amy",
+    "classic": true
+  },
+  {
+    "name": "Anastasia",
+    "classic": true
+  },
+  {
+    "name": "Anaya",
+    "classic": false
+  },
+  {
+    "name": "Angela",
+    "classic": true
+  },
+  {
+    "name": "Annabelle",
+    "classic": true
+  },
+  {
+    "name": "Arabella",
+    "classic": false
+  },
+  {
+    "name": "Aria",
+    "classic": false
+  },
+  {
+    "name": "Ariel",
+    "classic": true
+  },
+  {
+    "name": "Ariella",
+    "classic": false
+  },
+  {
+    "name": "Athena",
+    "classic": true
+  },
+  {
+    "name": "Audrey",
+    "classic": true
+  },
+  {
+    "name": "Aurora",
+    "classic": false
+  },
+  {
+    "name": "Ava",
+    "classic": true
+  },
+  {
+    "name": "Ayla",
+    "classic": false
+  },
+  {
+    "name": "Bella",
+    "classic": false
+  },
+  {
+    "name": "Blanche",
+    "classic": true
+  },
+  {
+    "name": "Bonnie",
+    "classic": true
+  },
+  {
+    "name": "Brooke",
+    "classic": true
+  },
+  {
+    "name": "Camille",
+    "classic": true
+  },
+  {
+    "name": "Charlotte",
+    "classic": true
+  },
+  {
+    "name": "Chloe",
+    "classic": false
+  },
+  {
+    "name": "Clare",
+    "classic": true
+  },
+  {
+    "name": "Clementine",
+    "classic": true
+  },
+  {
+    "name": "Daisy",
+    "classic": true
+  },
+  {
+    "name": "Darcie",
+    "classic": false
+  },
+  {
+    "name": "Delilah",
+    "classic": true
+  },
+  {
+    "name": "Diana",
+    "classic": true
+  },
+  {
+    "name": "Dorothy",
+    "classic": true
+  },
+  {
+    "name": "Eden",
+    "classic": false
+  },
+  {
+    "name": "Edith",
+    "classic": true
+  },
+  {
+    "name": "Eleanor",
+    "classic": true
+  },
+  {
+    "name": "Eliana",
+    "classic": false
+  },
+  {
+    "name": "Eliza",
+    "classic": false
+  },
+  {
+    "name": "Elizabeth",
+    "classic": true
+  },
+  {
+    "name": "Ella",
+    "classic": true
+  },
+  {
+    "name": "Ellie",
+    "classic": false
+  },
+  {
+    "name": "Elodie",
+    "classic": false
+  },
+  {
+    "name": "Eloise",
+    "classic": true
+  },
+  {
+    "name": "Elsie",
+    "classic": false
+  },
+  {
+    "name": "Emilia",
+    "classic": false
+  },
+  {
+    "name": "Emily",
+    "classic": true
+  },
+  {
+    "name": "Emma",
+    "classic": true
+  },
+  {
+    "name": "Erin",
+    "classic": false
+  },
+  {
+    "name": "Esme",
+    "classic": true
+  },
+  {
+    "name": "Esmerelda",
+    "classic": true
+  },
+  {
+    "name": "Eva",
+    "classic": false
+  },
+  {
+    "name": "Evelyn",
+    "classic": false
+  },
+  {
+    "name": "Evie",
+    "classic": false
+  },
+  {
+    "name": "Fiona",
+    "classic": true
+  },
+  {
+    "name": "Florence",
+    "classic": false
+  },
+  {
+    "name": "Freya",
+    "classic": false
+  },
+  {
+    "name": "Genevieve",
+    "classic": true
+  },
+  {
+    "name": "Grace",
+    "classic": true
+  },
+  {
+    "name": "Gracie",
+    "classic": false
+  },
+  {
+    "name": "Hallie",
+    "classic": false
+  },
+  {
+    "name": "Harper",
+    "classic": false
+  },
+  {
+    "name": "Harriet",
+    "classic": true
+  },
+  {
+    "name": "Hattie",
+    "classic": false
+  },
+  {
+    "name": "Hazel",
+    "classic": false
+  },
+  {
+    "name": "Heather",
+    "classic": true
+  },
+  {
+    "name": "Holly",
+    "classic": true
+  },
+  {
+    "name": "Hope",
+    "classic": true
+  },
+  {
+    "name": "Imogen",
+    "classic": false
+  },
+  {
+    "name": "Iris",
+    "classic": true
+  },
+  {
+    "name": "Isabel",
+    "classic": true
+  },
+  {
+    "name": "Isabella",
+    "classic": false
+  },
+  {
+    "name": "Isabelle",
+    "classic": false
+  },
+  {
+    "name": "Isla",
+    "classic": false
+  },
+  {
+    "name": "Ivy",
+    "classic": false
+  },
+  {
+    "name": "Jacqueline",
+    "classic": true
+  },
+  {
+    "name": "Jane",
+    "classic": true
+  },
+  {
+    "name": "Jean",
+    "classic": true
+  },
+  {
+    "name": "Joanna",
+    "classic": true
+  },
+  {
+    "name": "Julie",
+    "classic": true
+  },
+  {
+    "name": "June",
+    "classic": true
+  },
+  {
+    "name": "Kate",
+    "classic": true
+  },
+  {
+    "name": "Kimberley",
+    "classic": true
+  },
+  {
+    "name": "Layla",
+    "classic": false
+  },
+  {
+    "name": "Lilah",
+    "classic": false
+  },
+  {
+    "name": "Lili",
+    "classic": true
+  },
+  {
+    "name": "Lilly",
+    "classic": false
+  },
+  {
+    "name": "Lily",
+    "classic": false
+  },
+  {
+    "name": "Lola",
+    "classic": false
+  },
+  {
+    "name": "Lottie",
+    "classic": true
+  },
+  {
+    "name": "Lucy",
+    "classic": true
+  },
+  {
+    "name": "Luna",
+    "classic": false
+  },
+  {
+    "name": "Lydia",
+    "classic": true
+  },
+  {
+    "name": "Lyla",
+    "classic": false
+  },
+  {
+    "name": "Lyra",
+    "classic": false
+  },
+  {
+    "name": "Mabel",
+    "classic": true
+  },
+  {
+    "name": "Maddison",
+    "classic": false
+  },
+  {
+    "name": "Madeline",
+    "classic": true
+  },
+  {
+    "name": "Maeve",
+    "classic": false
+  },
+  {
+    "name": "Maisie",
+    "classic": true
+  },
+  {
+    "name": "Margaret",
+    "classic": true
+  },
+  {
+    "name": "Margot",
+    "classic": false
+  },
+  {
+    "name": "Marnie",
+    "classic": false
+  },
+  {
+    "name": "Martha",
+    "classic": true
+  },
+  {
+    "name": "Mary",
+    "classic": true
+  },
+  {
+    "name": "Maryam",
+    "classic": false
+  },
+  {
+    "name": "Matilda",
+    "classic": true
+  },
+  {
+    "name": "Maya",
+    "classic": false
+  },
+  {
+    "name": "Melanie",
+    "classic": true
+  },
+  {
+    "name": "Mia",
+    "classic": false
+  },
+  {
+    "name": "Mila",
+    "classic": false
+  },
+  {
+    "name": "Millie",
+    "classic": false
+  },
+  {
+    "name": "Molly",
+    "classic": true
+  },
+  {
+    "name": "Myla",
+    "classic": false
+  },
+  {
+    "name": "Nancy",
+    "classic": true
+  },
+  {
+    "name": "Natalie",
+    "classic": true
+  },
+  {
+    "name": "Nora",
+    "classic": true
+  },
+  {
+    "name": "Nova",
+    "classic": false
+  },
+  {
+    "name": "Olive",
+    "classic": false
+  },
+  {
+    "name": "Olivia",
+    "classic": true
+  },
+  {
+    "name": "Ophelia",
+    "classic": false
+  },
+  {
+    "name": "Ottilie",
+    "classic": false
+  },
+  {
+    "name": "Penelope",
+    "classic": true
+  },
+  {
+    "name": "Phoebe",
+    "classic": true
+  },
+  {
+    "name": "Poppy",
+    "classic": false
+  },
+  {
+    "name": "Rachel",
+    "classic": true
+  },
+  {
+    "name": "Raya",
+    "classic": false
+  },
+  {
+    "name": "Rebecca",
+    "classic": true
+  },
+  {
+    "name": "Robyn",
+    "classic": false
+  },
+  {
+    "name": "Rosa",
+    "classic": false
+  },
+  {
+    "name": "Rosalie",
+    "classic": true
+  },
+  {
+    "name": "Rose",
+    "classic": true
+  },
+  {
+    "name": "Rosie",
+    "classic": false
+  },
+  {
+    "name": "Ruby",
+    "classic": true
+  },
+  {
+    "name": "Ruth",
+    "classic": true
+  },
+  {
+    "name": "Sally",
+    "classic": true
+  },
+  {
+    "name": "Samantha",
+    "classic": true
+  },
+  {
+    "name": "Scarlett",
+    "classic": true
+  },
+  {
+    "name": "Sienna",
+    "classic": false
+  },
+  {
+    "name": "Sofia",
+    "classic": false
+  },
+  {
+    "name": "Sophia",
+    "classic": false
+  },
+  {
+    "name": "Sophie",
+    "classic": true
+  },
+  {
+    "name": "Stella",
+    "classic": true
+  },
+  {
+    "name": "Thea",
+    "classic": false
+  },
+  {
+    "name": "Victoria",
+    "classic": true
+  },
+  {
+    "name": "Violet",
+    "classic": true
+  },
+  {
+    "name": "Willow",
+    "classic": false
+  },
+  {
+    "name": "Winnie",
+    "classic": false
+  },
+  {
+    "name": "Zara",
+    "classic": false
+  }
+]

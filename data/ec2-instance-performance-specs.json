@@ -1,2672 +1,2672 @@
 [
-  {
-    "instanceType": "m5.large",
-    "memory": 8,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5.xlarge",
-    "memory": 16,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5.2xlarge",
-    "memory": 32,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5.4xlarge",
-    "memory": 64,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5.8xlarge",
-    "memory": 128,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5.12xlarge",
-    "memory": 192,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5.16xlarge",
-    "memory": 256,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5.24xlarge",
-    "memory": 384,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5.metal",
-    "memory": 384,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5a.large",
-    "memory": 8,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5a.xlarge",
-    "memory": 16,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5a.2xlarge",
-    "memory": 32,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5a.4xlarge",
-    "memory": 64,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5a.8xlarge",
-    "memory": 128,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5a.12xlarge",
-    "memory": 192,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5a.16xlarge",
-    "memory": 256,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5a.24xlarge",
-    "memory": 384,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5ad.large",
-    "memory": 8,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5ad.xlarge",
-    "memory": 16,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5ad.2xlarge",
-    "memory": 32,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5ad.4xlarge",
-    "memory": 64,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5ad.8xlarge",
-    "memory": 128,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5ad.12xlarge",
-    "memory": 192,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5ad.16xlarge",
-    "memory": 256,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5ad.24xlarge",
-    "memory": 384,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5d.large",
-    "memory": 8,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5d.xlarge",
-    "memory": 16,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5d.2xlarge",
-    "memory": 32,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5d.4xlarge",
-    "memory": 64,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5d.8xlarge",
-    "memory": 128,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5d.12xlarge",
-    "memory": 192,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5d.16xlarge",
-    "memory": 256,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5d.24xlarge",
-    "memory": 384,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5d.metal",
-    "memory": 384,
-    "processor": "Intel Xeon Platinum 8175",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5dn.large",
-    "memory": 8,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5dn.xlarge",
-    "memory": 16,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5dn.2xlarge",
-    "memory": 32,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5dn.4xlarge",
-    "memory": 64,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5dn.8xlarge",
-    "memory": 128,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5dn.12xlarge",
-    "memory": 192,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5dn.16xlarge",
-    "memory": 256,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5dn.24xlarge",
-    "memory": 384,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5dn.metal",
-    "memory": 384,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5n.large",
-    "memory": 8,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5n.xlarge",
-    "memory": 16,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5n.2xlarge",
-    "memory": 32,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5n.4xlarge",
-    "memory": 64,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5n.8xlarge",
-    "memory": 128,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5n.12xlarge",
-    "memory": 192,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5n.16xlarge",
-    "memory": 256,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5n.24xlarge",
-    "memory": 384,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5n.metal",
-    "memory": 384,
-    "processor": "Intel Xeon Platinum 8259",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5zn.large",
-    "memory": 8,
-    "processor": "Intel Xeon Platinum 8252",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5zn.xlarge",
-    "memory": 16,
-    "processor": "Intel Xeon Platinum 8252",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5zn.2xlarge",
-    "memory": 32,
-    "processor": "Intel Xeon Platinum 8252",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5zn.3xlarge",
-    "memory": 48,
-    "processor": "Intel Xeon Platinum 8252",
-    "vCPUs": 12,
-    "CPUs": 6,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5zn.6xlarge",
-    "memory": 96,
-    "processor": "Intel Xeon Platinum 8252",
-    "vCPUs": 24,
-    "CPUs": 12,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5zn.12xlarge",
-    "memory": 192,
-    "processor": "Intel Xeon Platinum 8252",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m5zn.metal",
-    "memory": 192,
-    "processor": "Intel Xeon Platinum 8252",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6a.large",
-    "memory": 8,
-    "processor": "AMD EPYC 7R13",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6a.xlarge",
-    "memory": 16,
-    "processor": "AMD EPYC 7R13",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6a.2xlarge",
-    "memory": 32,
-    "processor": "AMD EPYC 7R13",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6a.4xlarge",
-    "memory": 64,
-    "processor": "AMD EPYC 7R13",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6a.8xlarge",
-    "memory": 128,
-    "processor": "AMD EPYC 7R13",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6a.12xlarge",
-    "memory": 192,
-    "processor": "AMD EPYC 7R13",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6a.16xlarge",
-    "memory": 256,
-    "processor": "AMD EPYC 7R13",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6a.24xlarge",
-    "memory": 384,
-    "processor": "AMD EPYC 7R13",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6a.32xlarge",
-    "memory": 512,
-    "processor": "AMD EPYC 7R13",
-    "vCPUs": 128,
-    "CPUs": 64,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6a.48xlarge",
-    "memory": 768,
-    "processor": "AMD EPYC 7R13",
-    "vCPUs": 192,
-    "CPUs": 96,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6a.metal",
-    "memory": 768,
-    "processor": "AMD EPYC 7R13",
-    "vCPUs": 192,
-    "CPUs": 96,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6g.medium",
-    "memory": 4,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 1,
-    "CPUs": 1,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6g.large",
-    "memory": 8,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6g.xlarge",
-    "memory": 16,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 4,
-    "CPUs": 4,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6g.2xlarge",
-    "memory": 32,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 8,
-    "CPUs": 8,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6g.4xlarge",
-    "memory": 64,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 16,
-    "CPUs": 16,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6g.8xlarge",
-    "memory": 128,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 32,
-    "CPUs": 32,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6g.12xlarge",
-    "memory": 192,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 48,
-    "CPUs": 48,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6g.16xlarge",
-    "memory": 256,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 64,
-    "CPUs": 64,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6g.metal",
-    "memory": 256,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 64,
-    "CPUs": 64,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6gd.medium",
-    "memory": 4,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 1,
-    "CPUs": 1,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6gd.large",
-    "memory": 8,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6gd.xlarge",
-    "memory": 16,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 4,
-    "CPUs": 4,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6gd.2xlarge",
-    "memory": 32,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 8,
-    "CPUs": 8,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6gd.4xlarge",
-    "memory": 64,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 16,
-    "CPUs": 16,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6gd.8xlarge",
-    "memory": 128,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 32,
-    "CPUs": 32,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6gd.12xlarge",
-    "memory": 192,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 48,
-    "CPUs": 48,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6gd.16xlarge",
-    "memory": 256,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 64,
-    "CPUs": 64,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6gd.metal",
-    "memory": 256,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 64,
-    "CPUs": 64,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6i.large",
-    "memory": 8,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6i.xlarge",
-    "memory": 16,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6i.2xlarge",
-    "memory": 32,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6i.4xlarge",
-    "memory": 64,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6i.8xlarge",
-    "memory": 128,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6i.12xlarge",
-    "memory": 192,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6i.16xlarge",
-    "memory": 256,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6i.24xlarge",
-    "memory": 384,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6i.32xlarge",
-    "memory": 512,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 128,
-    "CPUs": 64,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6i.metal",
-    "memory": 512,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 128,
-    "CPUs": 64,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6id.large",
-    "memory": 8,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6id.xlarge",
-    "memory": 16,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6id.2xlarge",
-    "memory": 32,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6id.4xlarge",
-    "memory": 64,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6id.8xlarge",
-    "memory": 128,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6id.12xlarge",
-    "memory": 192,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6id.16xlarge",
-    "memory": 256,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6id.24xlarge",
-    "memory": 384,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6id.32xlarge",
-    "memory": 512,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 128,
-    "CPUs": 64,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6id.metal",
-    "memory": 512,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 128,
-    "CPUs": 64,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6idn.large",
-    "memory": 8,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6idn.xlarge",
-    "memory": 16,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6idn.2xlarge",
-    "memory": 32,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6idn.4xlarge",
-    "memory": 64,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6idn.8xlarge",
-    "memory": 128,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6idn.12xlarge",
-    "memory": 192,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6idn.16xlarge",
-    "memory": 256,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6idn.24xlarge",
-    "memory": 384,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6idn.32xlarge",
-    "memory": 512,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 128,
-    "CPUs": 64,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6idn.metal",
-    "memory": 512,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 128,
-    "CPUs": 64,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6in.large",
-    "memory": 8,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6in.xlarge",
-    "memory": 16,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6in.2xlarge",
-    "memory": 32,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6in.4xlarge",
-    "memory": 64,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6in.8xlarge",
-    "memory": 128,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6in.12xlarge",
-    "memory": 192,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6in.16xlarge",
-    "memory": 256,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6in.24xlarge",
-    "memory": 384,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6in.32xlarge",
-    "memory": 512,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 128,
-    "CPUs": 64,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m6in.metal",
-    "memory": 512,
-    "processor": "Intel Xeon Ice Lake",
-    "vCPUs": 128,
-    "CPUs": 64,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7a.medium",
-    "memory": 4,
-    "processor": "AMD EPYC 9R14",
-    "vCPUs": 1,
-    "CPUs": 1,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7a.large",
-    "memory": 8,
-    "processor": "AMD EPYC 9R14",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7a.xlarge",
-    "memory": 16,
-    "processor": "AMD EPYC 9R14",
-    "vCPUs": 4,
-    "CPUs": 4,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7a.2xlarge",
-    "memory": 32,
-    "processor": "AMD EPYC 9R14",
-    "vCPUs": 8,
-    "CPUs": 8,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7a.4xlarge",
-    "memory": 64,
-    "processor": "AMD EPYC 9R14",
-    "vCPUs": 16,
-    "CPUs": 16,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7a.8xlarge",
-    "memory": 128,
-    "processor": "AMD EPYC 9R14",
-    "vCPUs": 32,
-    "CPUs": 32,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7a.12xlarge",
-    "memory": 192,
-    "processor": "AMD EPYC 9R14",
-    "vCPUs": 48,
-    "CPUs": 48,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7a.16xlarge",
-    "memory": 256,
-    "processor": "AMD EPYC 9R14",
-    "vCPUs": 64,
-    "CPUs": 64,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7a.24xlarge",
-    "memory": 384,
-    "processor": "AMD EPYC 9R14",
-    "vCPUs": 96,
-    "CPUs": 96,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7a.32xlarge",
-    "memory": 512,
-    "processor": "AMD EPYC 9R14",
-    "vCPUs": 128,
-    "CPUs": 128,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7a.48xlarge",
-    "memory": 768,
-    "processor": "AMD EPYC 9R14",
-    "vCPUs": 192,
-    "CPUs": 192,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7a.metal-48xl",
-    "memory": 768,
-    "processor": "AMD EPYC 9R14",
-    "vCPUs": 192,
-    "CPUs": 192,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7g.medium",
-    "memory": 4,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 1,
-    "CPUs": 1,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7g.large",
-    "memory": 8,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7g.xlarge",
-    "memory": 16,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 4,
-    "CPUs": 4,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7g.2xlarge",
-    "memory": 32,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 8,
-    "CPUs": 8,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7g.4xlarge",
-    "memory": 64,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 16,
-    "CPUs": 16,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7g.8xlarge",
-    "memory": 128,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 32,
-    "CPUs": 32,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7g.12xlarge",
-    "memory": 192,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 48,
-    "CPUs": 48,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7g.16xlarge",
-    "memory": 256,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 64,
-    "CPUs": 64,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7g.metal",
-    "memory": 256,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 64,
-    "CPUs": 64,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7gd.medium",
-    "memory": 4,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 1,
-    "CPUs": 1,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7gd.large",
-    "memory": 8,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7gd.xlarge",
-    "memory": 16,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 4,
-    "CPUs": 4,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7gd.2xlarge",
-    "memory": 32,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 8,
-    "CPUs": 8,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7gd.4xlarge",
-    "memory": 64,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 16,
-    "CPUs": 16,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7gd.8xlarge",
-    "memory": 128,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 32,
-    "CPUs": 32,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7gd.12xlarge",
-    "memory": 192,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 48,
-    "CPUs": 48,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7gd.16xlarge",
-    "memory": 256,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 64,
-    "CPUs": 64,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7gd.metal",
-    "memory": 256,
-    "processor": "AWS Graviton3 Processor",
-    "vCPUs": 64,
-    "CPUs": 64,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i.large",
-    "memory": 8,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i.xlarge",
-    "memory": 16,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i.2xlarge",
-    "memory": 32,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i.4xlarge",
-    "memory": 64,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i.8xlarge",
-    "memory": 128,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i.12xlarge",
-    "memory": 192,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i.16xlarge",
-    "memory": 256,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i.24xlarge",
-    "memory": 384,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i.48xlarge",
-    "memory": 768,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 192,
-    "CPUs": 96,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i.metal-24xl",
-    "memory": 384,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i.metal-48xl",
-    "memory": 768,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 192,
-    "CPUs": 96,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i-flex.large",
-    "memory": 8,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i-flex.xlarge",
-    "memory": 16,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i-flex.2xlarge",
-    "memory": 32,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i-flex.4xlarge",
-    "memory": 64,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i-flex.8xlarge",
-    "memory": 128,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i-flex.12xlarge",
-    "memory": 192,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m7i-flex.16xlarge",
-    "memory": 256,
-    "processor": "Intel Xeon Sapphire Rapids",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8a.medium",
-    "memory": 4,
-    "processor": "AMD EPYC 9R45",
-    "vCPUs": 1,
-    "CPUs": 1,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8a.large",
-    "memory": 8,
-    "processor": "AMD EPYC 9R45",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8a.xlarge",
-    "memory": 16,
-    "processor": "AMD EPYC 9R45",
-    "vCPUs": 4,
-    "CPUs": 4,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8a.2xlarge",
-    "memory": 32,
-    "processor": "AMD EPYC 9R45",
-    "vCPUs": 8,
-    "CPUs": 8,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8a.4xlarge",
-    "memory": 64,
-    "processor": "AMD EPYC 9R45",
-    "vCPUs": 16,
-    "CPUs": 16,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8a.8xlarge",
-    "memory": 128,
-    "processor": "AMD EPYC 9R45",
-    "vCPUs": 32,
-    "CPUs": 32,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8a.12xlarge",
-    "memory": 192,
-    "processor": "AMD EPYC 9R45",
-    "vCPUs": 48,
-    "CPUs": 48,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8a.16xlarge",
-    "memory": 256,
-    "processor": "AMD EPYC 9R45",
-    "vCPUs": 64,
-    "CPUs": 64,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8a.24xlarge",
-    "memory": 384,
-    "processor": "AMD EPYC 9R45",
-    "vCPUs": 96,
-    "CPUs": 96,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8a.48xlarge",
-    "memory": 768,
-    "processor": "AMD EPYC 9R45",
-    "vCPUs": 192,
-    "CPUs": 192,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8a.metal-24xl",
-    "memory": 384,
-    "processor": "AMD EPYC 9R45",
-    "vCPUs": 96,
-    "CPUs": 96,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8a.metal-48xl",
-    "memory": 768,
-    "processor": "AMD EPYC 9R45",
-    "vCPUs": 192,
-    "CPUs": 192,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8g.medium",
-    "memory": 4,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 1,
-    "CPUs": 1,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8g.large",
-    "memory": 8,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8g.xlarge",
-    "memory": 16,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 4,
-    "CPUs": 4,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8g.2xlarge",
-    "memory": 32,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 8,
-    "CPUs": 8,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8g.4xlarge",
-    "memory": 64,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 16,
-    "CPUs": 16,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8g.8xlarge",
-    "memory": 128,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 32,
-    "CPUs": 32,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8g.12xlarge",
-    "memory": 192,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 48,
-    "CPUs": 48,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8g.16xlarge",
-    "memory": 256,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 64,
-    "CPUs": 64,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8g.24xlarge",
-    "memory": 384,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 96,
-    "CPUs": 96,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8g.48xlarge",
-    "memory": 768,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 192,
-    "CPUs": 192,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8g.metal-24xl",
-    "memory": 384,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 96,
-    "CPUs": 96,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8g.metal-48xl",
-    "memory": 768,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 192,
-    "CPUs": 192,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8gd.medium",
-    "memory": 4,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 1,
-    "CPUs": 1,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8gd.large",
-    "memory": 8,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8gd.xlarge",
-    "memory": 16,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 4,
-    "CPUs": 4,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8gd.2xlarge",
-    "memory": 32,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 8,
-    "CPUs": 8,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8gd.4xlarge",
-    "memory": 64,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 16,
-    "CPUs": 16,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8gd.8xlarge",
-    "memory": 128,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 32,
-    "CPUs": 32,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8gd.12xlarge",
-    "memory": 192,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 48,
-    "CPUs": 48,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8gd.16xlarge",
-    "memory": 256,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 64,
-    "CPUs": 64,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8gd.24xlarge",
-    "memory": 384,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 96,
-    "CPUs": 96,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8gd.48xlarge",
-    "memory": 768,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 192,
-    "CPUs": 192,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8gd.metal-24xl",
-    "memory": 384,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 96,
-    "CPUs": 96,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8gd.metal-48xl",
-    "memory": 768,
-    "processor": "AWS Graviton4 Processor",
-    "vCPUs": 192,
-    "CPUs": 192,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i.large",
-    "memory": 8,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i.xlarge",
-    "memory": 16,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i.2xlarge",
-    "memory": 32,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i.4xlarge",
-    "memory": 64,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i.8xlarge",
-    "memory": 128,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i.12xlarge",
-    "memory": 192,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i.16xlarge",
-    "memory": 256,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i.24xlarge",
-    "memory": 384,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 96,
-    "CPUs": 48,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i.32xlarge",
-    "memory": 512,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 128,
-    "CPUs": 64,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i.48xlarge",
-    "memory": 768,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 192,
-    "CPUs": 96,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i.96xlarge",
-    "memory": 1536,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 384,
-    "CPUs": 192,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i.metal-48xl",
-    "memory": 768,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 192,
-    "CPUs": 96,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i.metal-96xl",
-    "memory": 1536,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 384,
-    "CPUs": 192,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i-flex.large",
-    "memory": 8,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i-flex.xlarge",
-    "memory": 16,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i-flex.2xlarge",
-    "memory": 32,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i-flex.4xlarge",
-    "memory": 64,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 16,
-    "CPUs": 8,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i-flex.8xlarge",
-    "memory": 128,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 32,
-    "CPUs": 16,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i-flex.12xlarge",
-    "memory": 192,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 48,
-    "CPUs": 24,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "m8i-flex.16xlarge",
-    "memory": 256,
-    "processor": "Intel Xeon Granite Rapids",
-    "vCPUs": 64,
-    "CPUs": 32,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "mac1.metal",
-    "memory": 32,
-    "processor": "Intel Core i7-8700B",
-    "vCPUs": 12,
-    "CPUs": 6,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "mac2.metal",
-    "memory": 16,
-    "processor": "Apple M1 chip with 8-core CPU",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "mac2-m1ultra.metal",
-    "memory": 128,
-    "processor": "Apple M1 Ultra with 20‑core CPU",
-    "vCPUs": 20,
-    "CPUs": 20,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "mac2-m2.metal",
-    "memory": 24,
-    "processor": "Apple M2 with 8‑core CPU",
-    "vCPUs": 8,
-    "CPUs": 8,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "mac2-m2pro.metal",
-    "memory": 32,
-    "processor": "Apple M2 Pro with 12‑core CPU",
-    "vCPUs": 12,
-    "CPUs": 12,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "mac-m4.metal",
-    "memory": 24,
-    "processor": "Apple M4 with 10‑core CPU",
-    "vCPUs": 10,
-    "CPUs": 10,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "mac-m4pro.metal",
-    "memory": 48,
-    "processor": "Apple M4 with 12‑core CPU",
-    "vCPUs": 14,
-    "CPUs": 14,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t2.nano 1",
-    "memory": 0,
-    "processor": "Intel Xeon Family",
-    "vCPUs": 1,
-    "CPUs": 1,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t2.micro 1",
-    "memory": 1,
-    "processor": "Intel Xeon Family",
-    "vCPUs": 1,
-    "CPUs": 1,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t2.small 1",
-    "memory": 2,
-    "processor": "Intel Xeon Family",
-    "vCPUs": 1,
-    "CPUs": 1,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t2.medium 1",
-    "memory": 4,
-    "processor": "Intel Broadwell E5-2686v4",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t2.large 1",
-    "memory": 8,
-    "processor": "Intel Broadwell E5-2686v4",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t2.xlarge 1",
-    "memory": 16,
-    "processor": "Intel Broadwell E5-2686v4",
-    "vCPUs": 4,
-    "CPUs": 4,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t2.2xlarge 1",
-    "memory": 32,
-    "processor": "Intel Broadwell E5-2686v4",
-    "vCPUs": 8,
-    "CPUs": 8,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3.nano 1",
-    "memory": 0,
-    "processor": "Intel Skylake P-8175",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3.micro 1",
-    "memory": 1,
-    "processor": "Intel Skylake P-8175",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3.small 1",
-    "memory": 2,
-    "processor": "Intel Skylake P-8175",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3.medium 1",
-    "memory": 4,
-    "processor": "Intel Skylake P-8175",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3.large 1",
-    "memory": 8,
-    "processor": "Intel Skylake P-8175",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3.xlarge 1",
-    "memory": 16,
-    "processor": "Intel Skylake P-8175",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3.2xlarge 1",
-    "memory": 32,
-    "processor": "Intel Skylake P-8175",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3a.nano 1",
-    "memory": 0,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3a.micro 1",
-    "memory": 1,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3a.small 1",
-    "memory": 2,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3a.medium 1",
-    "memory": 4,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3a.large 1",
-    "memory": 8,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 2,
-    "CPUs": 1,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3a.xlarge 1",
-    "memory": 16,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 4,
-    "CPUs": 2,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t3a.2xlarge 1",
-    "memory": 32,
-    "processor": "AMD EPYC 7571",
-    "vCPUs": 8,
-    "CPUs": 4,
-    "threadsPerCore": 2,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t4g.nano 1",
-    "memory": 0,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t4g.micro 1",
-    "memory": 1,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t4g.small 1",
-    "memory": 2,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t4g.medium 1",
-    "memory": 4,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t4g.large 1",
-    "memory": 8,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 2,
-    "CPUs": 2,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t4g.xlarge 1",
-    "memory": 16,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 4,
-    "CPUs": 4,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  },
-  {
-    "instanceType": "t4g.2xlarge 1",
-    "memory": 32,
-    "processor": "AWS Graviton2 Processor",
-    "vCPUs": 8,
-    "CPUs": 8,
-    "threadsPerCore": 1,
-    "accelerators": "✗",
-    "acceleratorMemory": "✗"
-  }
+    {
+        "instanceType": "m5.large",
+        "memory": 8,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5.xlarge",
+        "memory": 16,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5.2xlarge",
+        "memory": 32,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5.4xlarge",
+        "memory": 64,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5.8xlarge",
+        "memory": 128,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5.12xlarge",
+        "memory": 192,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5.16xlarge",
+        "memory": 256,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5.24xlarge",
+        "memory": 384,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5.metal",
+        "memory": 384,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5a.large",
+        "memory": 8,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5a.xlarge",
+        "memory": 16,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5a.2xlarge",
+        "memory": 32,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5a.4xlarge",
+        "memory": 64,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5a.8xlarge",
+        "memory": 128,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5a.12xlarge",
+        "memory": 192,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5a.16xlarge",
+        "memory": 256,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5a.24xlarge",
+        "memory": 384,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5ad.large",
+        "memory": 8,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5ad.xlarge",
+        "memory": 16,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5ad.2xlarge",
+        "memory": 32,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5ad.4xlarge",
+        "memory": 64,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5ad.8xlarge",
+        "memory": 128,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5ad.12xlarge",
+        "memory": 192,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5ad.16xlarge",
+        "memory": 256,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5ad.24xlarge",
+        "memory": 384,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5d.large",
+        "memory": 8,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5d.xlarge",
+        "memory": 16,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5d.2xlarge",
+        "memory": 32,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5d.4xlarge",
+        "memory": 64,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5d.8xlarge",
+        "memory": 128,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5d.12xlarge",
+        "memory": 192,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5d.16xlarge",
+        "memory": 256,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5d.24xlarge",
+        "memory": 384,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5d.metal",
+        "memory": 384,
+        "processor": "Intel Xeon Platinum 8175",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5dn.large",
+        "memory": 8,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5dn.xlarge",
+        "memory": 16,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5dn.2xlarge",
+        "memory": 32,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5dn.4xlarge",
+        "memory": 64,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5dn.8xlarge",
+        "memory": 128,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5dn.12xlarge",
+        "memory": 192,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5dn.16xlarge",
+        "memory": 256,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5dn.24xlarge",
+        "memory": 384,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5dn.metal",
+        "memory": 384,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5n.large",
+        "memory": 8,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5n.xlarge",
+        "memory": 16,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5n.2xlarge",
+        "memory": 32,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5n.4xlarge",
+        "memory": 64,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5n.8xlarge",
+        "memory": 128,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5n.12xlarge",
+        "memory": 192,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5n.16xlarge",
+        "memory": 256,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5n.24xlarge",
+        "memory": 384,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5n.metal",
+        "memory": 384,
+        "processor": "Intel Xeon Platinum 8259",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5zn.large",
+        "memory": 8,
+        "processor": "Intel Xeon Platinum 8252",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5zn.xlarge",
+        "memory": 16,
+        "processor": "Intel Xeon Platinum 8252",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5zn.2xlarge",
+        "memory": 32,
+        "processor": "Intel Xeon Platinum 8252",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5zn.3xlarge",
+        "memory": 48,
+        "processor": "Intel Xeon Platinum 8252",
+        "vCPUs": 12,
+        "CPUs": 6,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5zn.6xlarge",
+        "memory": 96,
+        "processor": "Intel Xeon Platinum 8252",
+        "vCPUs": 24,
+        "CPUs": 12,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5zn.12xlarge",
+        "memory": 192,
+        "processor": "Intel Xeon Platinum 8252",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m5zn.metal",
+        "memory": 192,
+        "processor": "Intel Xeon Platinum 8252",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6a.large",
+        "memory": 8,
+        "processor": "AMD EPYC 7R13",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6a.xlarge",
+        "memory": 16,
+        "processor": "AMD EPYC 7R13",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6a.2xlarge",
+        "memory": 32,
+        "processor": "AMD EPYC 7R13",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6a.4xlarge",
+        "memory": 64,
+        "processor": "AMD EPYC 7R13",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6a.8xlarge",
+        "memory": 128,
+        "processor": "AMD EPYC 7R13",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6a.12xlarge",
+        "memory": 192,
+        "processor": "AMD EPYC 7R13",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6a.16xlarge",
+        "memory": 256,
+        "processor": "AMD EPYC 7R13",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6a.24xlarge",
+        "memory": 384,
+        "processor": "AMD EPYC 7R13",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6a.32xlarge",
+        "memory": 512,
+        "processor": "AMD EPYC 7R13",
+        "vCPUs": 128,
+        "CPUs": 64,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6a.48xlarge",
+        "memory": 768,
+        "processor": "AMD EPYC 7R13",
+        "vCPUs": 192,
+        "CPUs": 96,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6a.metal",
+        "memory": 768,
+        "processor": "AMD EPYC 7R13",
+        "vCPUs": 192,
+        "CPUs": 96,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6g.medium",
+        "memory": 4,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 1,
+        "CPUs": 1,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6g.large",
+        "memory": 8,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6g.xlarge",
+        "memory": 16,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 4,
+        "CPUs": 4,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6g.2xlarge",
+        "memory": 32,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 8,
+        "CPUs": 8,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6g.4xlarge",
+        "memory": 64,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 16,
+        "CPUs": 16,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6g.8xlarge",
+        "memory": 128,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 32,
+        "CPUs": 32,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6g.12xlarge",
+        "memory": 192,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 48,
+        "CPUs": 48,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6g.16xlarge",
+        "memory": 256,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 64,
+        "CPUs": 64,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6g.metal",
+        "memory": 256,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 64,
+        "CPUs": 64,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6gd.medium",
+        "memory": 4,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 1,
+        "CPUs": 1,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6gd.large",
+        "memory": 8,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6gd.xlarge",
+        "memory": 16,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 4,
+        "CPUs": 4,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6gd.2xlarge",
+        "memory": 32,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 8,
+        "CPUs": 8,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6gd.4xlarge",
+        "memory": 64,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 16,
+        "CPUs": 16,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6gd.8xlarge",
+        "memory": 128,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 32,
+        "CPUs": 32,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6gd.12xlarge",
+        "memory": 192,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 48,
+        "CPUs": 48,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6gd.16xlarge",
+        "memory": 256,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 64,
+        "CPUs": 64,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6gd.metal",
+        "memory": 256,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 64,
+        "CPUs": 64,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6i.large",
+        "memory": 8,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6i.xlarge",
+        "memory": 16,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6i.2xlarge",
+        "memory": 32,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6i.4xlarge",
+        "memory": 64,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6i.8xlarge",
+        "memory": 128,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6i.12xlarge",
+        "memory": 192,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6i.16xlarge",
+        "memory": 256,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6i.24xlarge",
+        "memory": 384,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6i.32xlarge",
+        "memory": 512,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 128,
+        "CPUs": 64,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6i.metal",
+        "memory": 512,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 128,
+        "CPUs": 64,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6id.large",
+        "memory": 8,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6id.xlarge",
+        "memory": 16,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6id.2xlarge",
+        "memory": 32,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6id.4xlarge",
+        "memory": 64,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6id.8xlarge",
+        "memory": 128,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6id.12xlarge",
+        "memory": 192,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6id.16xlarge",
+        "memory": 256,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6id.24xlarge",
+        "memory": 384,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6id.32xlarge",
+        "memory": 512,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 128,
+        "CPUs": 64,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6id.metal",
+        "memory": 512,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 128,
+        "CPUs": 64,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6idn.large",
+        "memory": 8,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6idn.xlarge",
+        "memory": 16,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6idn.2xlarge",
+        "memory": 32,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6idn.4xlarge",
+        "memory": 64,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6idn.8xlarge",
+        "memory": 128,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6idn.12xlarge",
+        "memory": 192,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6idn.16xlarge",
+        "memory": 256,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6idn.24xlarge",
+        "memory": 384,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6idn.32xlarge",
+        "memory": 512,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 128,
+        "CPUs": 64,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6idn.metal",
+        "memory": 512,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 128,
+        "CPUs": 64,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6in.large",
+        "memory": 8,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6in.xlarge",
+        "memory": 16,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6in.2xlarge",
+        "memory": 32,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6in.4xlarge",
+        "memory": 64,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6in.8xlarge",
+        "memory": 128,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6in.12xlarge",
+        "memory": 192,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6in.16xlarge",
+        "memory": 256,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6in.24xlarge",
+        "memory": 384,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6in.32xlarge",
+        "memory": 512,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 128,
+        "CPUs": 64,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m6in.metal",
+        "memory": 512,
+        "processor": "Intel Xeon Ice Lake",
+        "vCPUs": 128,
+        "CPUs": 64,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7a.medium",
+        "memory": 4,
+        "processor": "AMD EPYC 9R14",
+        "vCPUs": 1,
+        "CPUs": 1,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7a.large",
+        "memory": 8,
+        "processor": "AMD EPYC 9R14",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7a.xlarge",
+        "memory": 16,
+        "processor": "AMD EPYC 9R14",
+        "vCPUs": 4,
+        "CPUs": 4,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7a.2xlarge",
+        "memory": 32,
+        "processor": "AMD EPYC 9R14",
+        "vCPUs": 8,
+        "CPUs": 8,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7a.4xlarge",
+        "memory": 64,
+        "processor": "AMD EPYC 9R14",
+        "vCPUs": 16,
+        "CPUs": 16,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7a.8xlarge",
+        "memory": 128,
+        "processor": "AMD EPYC 9R14",
+        "vCPUs": 32,
+        "CPUs": 32,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7a.12xlarge",
+        "memory": 192,
+        "processor": "AMD EPYC 9R14",
+        "vCPUs": 48,
+        "CPUs": 48,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7a.16xlarge",
+        "memory": 256,
+        "processor": "AMD EPYC 9R14",
+        "vCPUs": 64,
+        "CPUs": 64,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7a.24xlarge",
+        "memory": 384,
+        "processor": "AMD EPYC 9R14",
+        "vCPUs": 96,
+        "CPUs": 96,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7a.32xlarge",
+        "memory": 512,
+        "processor": "AMD EPYC 9R14",
+        "vCPUs": 128,
+        "CPUs": 128,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7a.48xlarge",
+        "memory": 768,
+        "processor": "AMD EPYC 9R14",
+        "vCPUs": 192,
+        "CPUs": 192,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7a.metal-48xl",
+        "memory": 768,
+        "processor": "AMD EPYC 9R14",
+        "vCPUs": 192,
+        "CPUs": 192,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7g.medium",
+        "memory": 4,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 1,
+        "CPUs": 1,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7g.large",
+        "memory": 8,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7g.xlarge",
+        "memory": 16,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 4,
+        "CPUs": 4,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7g.2xlarge",
+        "memory": 32,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 8,
+        "CPUs": 8,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7g.4xlarge",
+        "memory": 64,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 16,
+        "CPUs": 16,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7g.8xlarge",
+        "memory": 128,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 32,
+        "CPUs": 32,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7g.12xlarge",
+        "memory": 192,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 48,
+        "CPUs": 48,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7g.16xlarge",
+        "memory": 256,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 64,
+        "CPUs": 64,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7g.metal",
+        "memory": 256,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 64,
+        "CPUs": 64,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7gd.medium",
+        "memory": 4,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 1,
+        "CPUs": 1,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7gd.large",
+        "memory": 8,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7gd.xlarge",
+        "memory": 16,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 4,
+        "CPUs": 4,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7gd.2xlarge",
+        "memory": 32,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 8,
+        "CPUs": 8,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7gd.4xlarge",
+        "memory": 64,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 16,
+        "CPUs": 16,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7gd.8xlarge",
+        "memory": 128,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 32,
+        "CPUs": 32,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7gd.12xlarge",
+        "memory": 192,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 48,
+        "CPUs": 48,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7gd.16xlarge",
+        "memory": 256,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 64,
+        "CPUs": 64,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7gd.metal",
+        "memory": 256,
+        "processor": "AWS Graviton3 Processor",
+        "vCPUs": 64,
+        "CPUs": 64,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i.large",
+        "memory": 8,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i.xlarge",
+        "memory": 16,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i.2xlarge",
+        "memory": 32,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i.4xlarge",
+        "memory": 64,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i.8xlarge",
+        "memory": 128,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i.12xlarge",
+        "memory": 192,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i.16xlarge",
+        "memory": 256,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i.24xlarge",
+        "memory": 384,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i.48xlarge",
+        "memory": 768,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 192,
+        "CPUs": 96,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i.metal-24xl",
+        "memory": 384,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i.metal-48xl",
+        "memory": 768,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 192,
+        "CPUs": 96,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i-flex.large",
+        "memory": 8,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i-flex.xlarge",
+        "memory": 16,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i-flex.2xlarge",
+        "memory": 32,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i-flex.4xlarge",
+        "memory": 64,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i-flex.8xlarge",
+        "memory": 128,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i-flex.12xlarge",
+        "memory": 192,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m7i-flex.16xlarge",
+        "memory": 256,
+        "processor": "Intel Xeon Sapphire Rapids",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8a.medium",
+        "memory": 4,
+        "processor": "AMD EPYC 9R45",
+        "vCPUs": 1,
+        "CPUs": 1,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8a.large",
+        "memory": 8,
+        "processor": "AMD EPYC 9R45",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8a.xlarge",
+        "memory": 16,
+        "processor": "AMD EPYC 9R45",
+        "vCPUs": 4,
+        "CPUs": 4,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8a.2xlarge",
+        "memory": 32,
+        "processor": "AMD EPYC 9R45",
+        "vCPUs": 8,
+        "CPUs": 8,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8a.4xlarge",
+        "memory": 64,
+        "processor": "AMD EPYC 9R45",
+        "vCPUs": 16,
+        "CPUs": 16,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8a.8xlarge",
+        "memory": 128,
+        "processor": "AMD EPYC 9R45",
+        "vCPUs": 32,
+        "CPUs": 32,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8a.12xlarge",
+        "memory": 192,
+        "processor": "AMD EPYC 9R45",
+        "vCPUs": 48,
+        "CPUs": 48,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8a.16xlarge",
+        "memory": 256,
+        "processor": "AMD EPYC 9R45",
+        "vCPUs": 64,
+        "CPUs": 64,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8a.24xlarge",
+        "memory": 384,
+        "processor": "AMD EPYC 9R45",
+        "vCPUs": 96,
+        "CPUs": 96,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8a.48xlarge",
+        "memory": 768,
+        "processor": "AMD EPYC 9R45",
+        "vCPUs": 192,
+        "CPUs": 192,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8a.metal-24xl",
+        "memory": 384,
+        "processor": "AMD EPYC 9R45",
+        "vCPUs": 96,
+        "CPUs": 96,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8a.metal-48xl",
+        "memory": 768,
+        "processor": "AMD EPYC 9R45",
+        "vCPUs": 192,
+        "CPUs": 192,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8g.medium",
+        "memory": 4,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 1,
+        "CPUs": 1,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8g.large",
+        "memory": 8,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8g.xlarge",
+        "memory": 16,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 4,
+        "CPUs": 4,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8g.2xlarge",
+        "memory": 32,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 8,
+        "CPUs": 8,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8g.4xlarge",
+        "memory": 64,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 16,
+        "CPUs": 16,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8g.8xlarge",
+        "memory": 128,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 32,
+        "CPUs": 32,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8g.12xlarge",
+        "memory": 192,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 48,
+        "CPUs": 48,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8g.16xlarge",
+        "memory": 256,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 64,
+        "CPUs": 64,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8g.24xlarge",
+        "memory": 384,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 96,
+        "CPUs": 96,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8g.48xlarge",
+        "memory": 768,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 192,
+        "CPUs": 192,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8g.metal-24xl",
+        "memory": 384,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 96,
+        "CPUs": 96,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8g.metal-48xl",
+        "memory": 768,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 192,
+        "CPUs": 192,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8gd.medium",
+        "memory": 4,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 1,
+        "CPUs": 1,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8gd.large",
+        "memory": 8,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8gd.xlarge",
+        "memory": 16,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 4,
+        "CPUs": 4,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8gd.2xlarge",
+        "memory": 32,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 8,
+        "CPUs": 8,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8gd.4xlarge",
+        "memory": 64,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 16,
+        "CPUs": 16,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8gd.8xlarge",
+        "memory": 128,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 32,
+        "CPUs": 32,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8gd.12xlarge",
+        "memory": 192,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 48,
+        "CPUs": 48,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8gd.16xlarge",
+        "memory": 256,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 64,
+        "CPUs": 64,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8gd.24xlarge",
+        "memory": 384,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 96,
+        "CPUs": 96,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8gd.48xlarge",
+        "memory": 768,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 192,
+        "CPUs": 192,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8gd.metal-24xl",
+        "memory": 384,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 96,
+        "CPUs": 96,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8gd.metal-48xl",
+        "memory": 768,
+        "processor": "AWS Graviton4 Processor",
+        "vCPUs": 192,
+        "CPUs": 192,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i.large",
+        "memory": 8,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i.xlarge",
+        "memory": 16,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i.2xlarge",
+        "memory": 32,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i.4xlarge",
+        "memory": 64,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i.8xlarge",
+        "memory": 128,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i.12xlarge",
+        "memory": 192,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i.16xlarge",
+        "memory": 256,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i.24xlarge",
+        "memory": 384,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 96,
+        "CPUs": 48,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i.32xlarge",
+        "memory": 512,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 128,
+        "CPUs": 64,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i.48xlarge",
+        "memory": 768,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 192,
+        "CPUs": 96,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i.96xlarge",
+        "memory": 1536,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 384,
+        "CPUs": 192,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i.metal-48xl",
+        "memory": 768,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 192,
+        "CPUs": 96,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i.metal-96xl",
+        "memory": 1536,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 384,
+        "CPUs": 192,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i-flex.large",
+        "memory": 8,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i-flex.xlarge",
+        "memory": 16,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i-flex.2xlarge",
+        "memory": 32,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i-flex.4xlarge",
+        "memory": 64,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 16,
+        "CPUs": 8,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i-flex.8xlarge",
+        "memory": 128,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 32,
+        "CPUs": 16,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i-flex.12xlarge",
+        "memory": 192,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 48,
+        "CPUs": 24,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "m8i-flex.16xlarge",
+        "memory": 256,
+        "processor": "Intel Xeon Granite Rapids",
+        "vCPUs": 64,
+        "CPUs": 32,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "mac1.metal",
+        "memory": 32,
+        "processor": "Intel Core i7-8700B",
+        "vCPUs": 12,
+        "CPUs": 6,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "mac2.metal",
+        "memory": 16,
+        "processor": "Apple M1 chip with 8-core CPU",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "mac2-m1ultra.metal",
+        "memory": 128,
+        "processor": "Apple M1 Ultra with 20‑core CPU",
+        "vCPUs": 20,
+        "CPUs": 20,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "mac2-m2.metal",
+        "memory": 24,
+        "processor": "Apple M2 with 8‑core CPU",
+        "vCPUs": 8,
+        "CPUs": 8,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "mac2-m2pro.metal",
+        "memory": 32,
+        "processor": "Apple M2 Pro with 12‑core CPU",
+        "vCPUs": 12,
+        "CPUs": 12,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "mac-m4.metal",
+        "memory": 24,
+        "processor": "Apple M4 with 10‑core CPU",
+        "vCPUs": 10,
+        "CPUs": 10,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "mac-m4pro.metal",
+        "memory": 48,
+        "processor": "Apple M4 with 12‑core CPU",
+        "vCPUs": 14,
+        "CPUs": 14,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t2.nano 1",
+        "memory": 0,
+        "processor": "Intel Xeon Family",
+        "vCPUs": 1,
+        "CPUs": 1,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t2.micro 1",
+        "memory": 1,
+        "processor": "Intel Xeon Family",
+        "vCPUs": 1,
+        "CPUs": 1,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t2.small 1",
+        "memory": 2,
+        "processor": "Intel Xeon Family",
+        "vCPUs": 1,
+        "CPUs": 1,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t2.medium 1",
+        "memory": 4,
+        "processor": "Intel Broadwell E5-2686v4",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t2.large 1",
+        "memory": 8,
+        "processor": "Intel Broadwell E5-2686v4",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t2.xlarge 1",
+        "memory": 16,
+        "processor": "Intel Broadwell E5-2686v4",
+        "vCPUs": 4,
+        "CPUs": 4,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t2.2xlarge 1",
+        "memory": 32,
+        "processor": "Intel Broadwell E5-2686v4",
+        "vCPUs": 8,
+        "CPUs": 8,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3.nano 1",
+        "memory": 0,
+        "processor": "Intel Skylake P-8175",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3.micro 1",
+        "memory": 1,
+        "processor": "Intel Skylake P-8175",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3.small 1",
+        "memory": 2,
+        "processor": "Intel Skylake P-8175",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3.medium 1",
+        "memory": 4,
+        "processor": "Intel Skylake P-8175",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3.large 1",
+        "memory": 8,
+        "processor": "Intel Skylake P-8175",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3.xlarge 1",
+        "memory": 16,
+        "processor": "Intel Skylake P-8175",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3.2xlarge 1",
+        "memory": 32,
+        "processor": "Intel Skylake P-8175",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3a.nano 1",
+        "memory": 0,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3a.micro 1",
+        "memory": 1,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3a.small 1",
+        "memory": 2,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3a.medium 1",
+        "memory": 4,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3a.large 1",
+        "memory": 8,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 2,
+        "CPUs": 1,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3a.xlarge 1",
+        "memory": 16,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 4,
+        "CPUs": 2,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t3a.2xlarge 1",
+        "memory": 32,
+        "processor": "AMD EPYC 7571",
+        "vCPUs": 8,
+        "CPUs": 4,
+        "threadsPerCore": 2,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t4g.nano 1",
+        "memory": 0,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t4g.micro 1",
+        "memory": 1,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t4g.small 1",
+        "memory": 2,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t4g.medium 1",
+        "memory": 4,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t4g.large 1",
+        "memory": 8,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 2,
+        "CPUs": 2,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t4g.xlarge 1",
+        "memory": 16,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 4,
+        "CPUs": 4,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    },
+    {
+        "instanceType": "t4g.2xlarge 1",
+        "memory": 32,
+        "processor": "AWS Graviton2 Processor",
+        "vCPUs": 8,
+        "CPUs": 8,
+        "threadsPerCore": 1,
+        "accelerators": "✗",
+        "acceleratorMemory": "✗"
+    }
 ]
