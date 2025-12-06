@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Adam",
+    "classic": true
+  },
+  {
+    "name": "Alan",
+    "classic": true
+  },
+  {
+    "name": "Albert",
+    "classic": true
+  },
+  {
+    "name": "Alfred",
+    "classic": true
+  },
+  {
+    "name": "Anthony",
+    "classic": true
+  },
+  {
+    "name": "Archie",
+    "classic": true
+  },
+  {
+    "name": "Arthur",
+    "classic": true
+  },
+  {
+    "name": "Benjamin",
+    "classic": true
+  },
+  {
+    "name": "Bradley",
+    "classic": true
+  },
+  {
+    "name": "Brandon",
+    "classic": true
+  },
+  {
+    "name": "Brian",
+    "classic": true
+  },
+  {
+    "name": "Caleb",
+    "classic": true
+  },
+  {
+    "name": "Charlie",
+    "classic": true
+  },
+  {
+    "name": "Christian",
+    "classic": true
+  },
+  {
+    "name": "Christopher",
+    "classic": true
+  },
+  {
+    "name": "Colin",
+    "classic": true
+  },
+  {
+    "name": "Connor",
+    "classic": true
+  },
+  {
+    "name": "Damian",
+    "classic": true
+  },
+  {
+    "name": "Dean",
+    "classic": true
+  },
+  {
+    "name": "Derek",
+    "classic": true
+  },
+  {
+    "name": "Dylan",
+    "classic": true
+  },
+  {
+    "name": "Edward",
+    "classic": true
+  },
+  {
+    "name": "Elijah",
+    "classic": true
+  },
+  {
+    "name": "Elliott",
+    "classic": true
+  },
+  {
+    "name": "Eric",
+    "classic": true
+  },
+  {
+    "name": "Ezra",
+    "classic": true
+  },
+  {
+    "name": "Felix",
+    "classic": true
+  },
+  {
+    "name": "Frank",
+    "classic": true
+  },
+  {
+    "name": "Frederick",
+    "classic": true
+  },
+  {
+    "name": "Gavin",
+    "classic": true
+  },
+  {
+    "name": "George",
+    "classic": true
+  },
+  {
+    "name": "Graham",
+    "classic": true
+  },
+  {
+    "name": "Grayson",
+    "classic": true
+  },
+  {
+    "name": "Harold",
+    "classic": true
+  },
+  {
+    "name": "Harry",
+    "classic": true
+  },
+  {
+    "name": "Harvey",
+    "classic": true
+  },
+  {
+    "name": "Henry",
+    "classic": true
+  },
+  {
+    "name": "Hugo",
+    "classic": true
+  },
+  {
+    "name": "Ian",
+    "classic": true
+  },
+  {
+    "name": "Isaac",
+    "classic": true
+  },
+  {
+    "name": "Jack",
+    "classic": true
+  },
+  {
+    "name": "Jacob",
+    "classic": true
+  },
+  {
+    "name": "Jago",
+    "classic": true
+  },
+  {
+    "name": "James",
+    "classic": true
+  },
+  {
+    "name": "Jason",
+    "classic": true
+  },
+  {
+    "name": "Jasper",
+    "classic": true
+  },
+  {
+    "name": "Jeremy",
+    "classic": true
+  },
+  {
+    "name": "John",
+    "classic": true
+  },
+  {
+    "name": "Jonah",
+    "classic": true
+  },
+  {
+    "name": "Jordan",
+    "classic": true
+  },
+  {
+    "name": "Justin",
+    "classic": true
+  },
+  {
+    "name": "Kenneth",
+    "classic": true
+  },
+  {
+    "name": "Kevin",
+    "classic": true
+  },
+  {
+    "name": "Killian",
+    "classic": true
+  },
+  {
+    "name": "Leo",
+    "classic": true
+  },
+  {
+    "name": "Liam",
+    "classic": true
+  },
+  {
+    "name": "Louis",
+    "classic": true
+  },
+  {
+    "name": "Luke",
+    "classic": true
+  },
+  {
+    "name": "Marcus",
+    "classic": true
+  },
+  {
+    "name": "Mark",
+    "classic": true
+  },
+  {
+    "name": "Martin",
+    "classic": true
+  },
+  {
+    "name": "Matthew",
+    "classic": true
+  },
+  {
+    "name": "Maximilian",
+    "classic": true
+  },
+  {
+    "name": "Michael",
+    "classic": true
+  },
+  {
+    "name": "Miles",
+    "classic": true
+  },
+  {
+    "name": "Nathan",
+    "classic": true
+  },
+  {
+    "name": "Ned",
+    "classic": true
+  },
+  {
+    "name": "Nicholas",
+    "classic": true
+  },
+  {
+    "name": "Noah",
+    "classic": true
+  },
+  {
+    "name": "Oliver",
+    "classic": true
+  },
+  {
+    "name": "Orson",
+    "classic": true
+  },
+  {
+    "name": "Oscar",
+    "classic": true
+  },
+  {
+    "name": "Owen",
+    "classic": true
+  },
+  {
+    "name": "Paul",
+    "classic": true
+  },
+  {
+    "name": "Peter",
+    "classic": true
+  },
+  {
+    "name": "Ralph",
+    "classic": true
+  },
+  {
+    "name": "Raymond",
+    "classic": true
+  },
+  {
+    "name": "Reginald",
+    "classic": true
+  },
+  {
+    "name": "Ronald",
+    "classic": true
+  },
+  {
+    "name": "Stanley",
+    "classic": true
+  },
+  {
+    "name": "Stanley",
+    "classic": true
+  },
+  {
+    "name": "Theodore",
+    "classic": true
+  },
+  {
+    "name": "Walter",
+    "classic": true
+  },
+  {
+    "name": "Zeke",
+    "classic": true
+  }
+]
