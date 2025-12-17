@@ -8,7 +8,7 @@
         "lint": "eslint lib/ test/",
         "lint:fix": "eslint --fix lib/ test/",
         "pretty": "prettier . --write",
-        "test": "mocha \"test/**/*.js\""
+        "test": "mocha \"test/**/*.test.js\""
     },
     "author": "Peter Berry",
     "license": "Apache-2.0",
