@@ -12,8 +12,9 @@
     },
     "author": "Peter Berry",
     "license": "Apache-2.0",
-    "packageManager": "yarn@4.9.4",
+    "packageManager": "yarn@4.17.0",
     "dependencies": {
+        "lcs-image-diff": "^4.0.1",
         "sharp": "^0.34.4"
     },
     "devDependencies": {
