@@ -149,3 +149,4 @@ dist
 .vs/
 .yarn/
 yarn.lock
+package-lock.json

@@ -12,20 +12,22 @@
     },
     "author": "Peter Berry",
     "license": "Apache-2.0",
-    "packageManager": "yarn@4.17.0",
     "dependencies": {
-        "sharp": "^0.34.4"
+        "sharp": "^0.35.3"
     },
     "devDependencies": {
-        "chai": "^6.2.0",
-        "eslint": "^9.29.0",
+        "chai": "^6.2.2",
+        "eslint": "^10.8.0",
         "eslint-config-prettier": "^10.1.8",
-        "eslint-plugin-mocha": "^11.1.0",
-        "eslint-plugin-prettier": "^5.5.4",
-        "jsdom": "^27.0.0",
-        "mocha": "^11.7.4",
-        "prettier": "^3.5.3",
+        "eslint-plugin-mocha": "^12.0.1",
+        "eslint-plugin-prettier": "^5.5.6",
+        "jsdom": "^30.0.1",
+        "mocha": "^11.7.6",
+        "prettier": "^3.9.6",
         "testdouble": "^3.20.2",
         "testdouble-chai": "^0.5.0"
+    },
+    "allowScripts": {
+        "sharp@0.35.3": true
     }
 }
