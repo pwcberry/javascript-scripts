@@ -3,11 +3,11 @@ import { afterEach, beforeEach, describe, it } from "mocha";
 import * as td from "testdouble";
 import { expect, use } from "chai";
 import tdChai from "testdouble-chai";
-import { getRndInt } from "../../../lib/isomorphic/math.js";
 
 use(tdChai(td));
 const require = createRequire(import.meta.url);
 
+// TODO: Analyse why tests are failing in Node 24 and fix them
 describe("account.js", () => {
     let module, mathLib;
     const girlJson = [
@@ -42,6 +42,10 @@ describe("account.js", () => {
         module = await import("../../../lib/node/account.js");
     });
 
+    afterEach(() => {
+        td.reset();
+    });
+
     describe("#generateAccount", () => {
         beforeEach(() => {
             td.when(mathLib.getRndInt(20000000, 40000000)).thenReturn(22233344);
@@ -64,7 +68,6 @@ describe("account.js", () => {
 
     describe("#generateAccountList", () => {
         beforeEach(async () => {
-            td.when(mathLib.getRndInt(20000000, 40000000)).thenReturn(22233344);
             td.when(mathLib.getRndInt(0, td.matchers.isA(Number))).thenReturn(0);
             td.when(mathLib.getRndInt(0, 10)).thenReturn(9);
             td.when(mathLib.getRndInt(1, 30)).thenReturn(5);
@@ -79,9 +82,5 @@ describe("account.js", () => {
             const list = Array.from(module.generateAccountList(10));
             expect(list.length).to.equal(10);
         });
-    });
-
-    afterEach(() => {
-        td.reset();
     });
 });

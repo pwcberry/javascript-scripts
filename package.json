@@ -29,5 +29,8 @@
     },
     "allowScripts": {
         "sharp@0.35.3": true
+    },
+    "engines": {
+        "node": ">=24.0.0"
     }
 }
