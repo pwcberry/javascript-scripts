@@ -1,17 +1,26 @@
 import globals from "globals";
-import pluginJs from "@eslint/js";
-import prettierConfig from "eslint-config-prettier";
+import js from "@eslint/js";
+import { defineConfig } from "eslint/config";
+import stylistic from "@stylistic/eslint-plugin";
 import mochaPlugin from "eslint-plugin-mocha";
 
-export default [
-    { languageOptions: { globals: { ...globals.browser, ...globals.node } } },
-    pluginJs.configs.recommended,
-    prettierConfig,
-    mochaPlugin.configs.recommended,
-    {
-        rules: {
-            "mocha/no-mocha-arrows": "off",
-            "no-unused-vars": "warn",
-        },
+export default defineConfig([
+  {
+    files: ["lib/**/*.js", "test/**/*.js", "eslint.config.js"],
+    extends: [
+      js.configs.recommended,
+      mochaPlugin.configs.recommended,
+      stylistic.configs.customize({
+        indent: 2,
+        quotes: "double",
+        semi: true,
+        jsx: true,
+      }),
+    ],
+    languageOptions: { globals: { ...globals.browser, ...globals.node } },
+    rules: {
+      "mocha/no-mocha-arrows": "off",
+      "no-unused-vars": "warn",
     },
-];
+  },
+]);
