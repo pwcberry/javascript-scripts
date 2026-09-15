@@ -3,8 +3,8 @@ import * as td from "testdouble";
 import { expect, use } from "chai";
 import tdChai from "testdouble-chai";
 import { JSDOM } from "jsdom";
-import { walkHtmlDom } from "../../../lib/browser/dom-walker.js";
-import { getFixturePath } from "../../util.js";
+import { walkHtmlDom } from "../../lib/browser/dom-walker.js";
+import { getFixturePath } from "../util.js";
 
 use(tdChai(td));
 

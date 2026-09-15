@@ -39,7 +39,7 @@ describe("account.js", () => {
     await td.replaceEsm(require.resolve("../../../data/localities.json"), null, localityJson);
     await td.replaceEsm(require.resolve("../../../data/melbourne-streets.json"), null, streetJson);
     mathLib = await td.replaceEsm(require.resolve("../../../lib/isomorphic/math.js"));
-    module = await import("../../../lib/node/account.js");
+    module = await import("../../lib/node/account.js");
   });
 
   afterEach(() => {

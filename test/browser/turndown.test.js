@@ -4,7 +4,7 @@ import * as td from "testdouble";
 import { expect, use } from "chai";
 import tdChai from "testdouble-chai";
 import { JSDOM } from "jsdom";
-import { getFixturePath } from "../../util.js";
+import { getFixturePath } from "../util.js";
 
 use(tdChai(td));
 
@@ -31,7 +31,7 @@ describe("turndown.js", () => {
     let toMarkdown;
 
     beforeEach(async () => {
-      ({ toMarkdown } = await import("../../../lib/browser/turndown.js"));
+      ({ toMarkdown } = await import("../../lib/browser/turndown.js"));
     });
 
     describe("headings", () => {
@@ -183,7 +183,7 @@ describe("turndown.js", () => {
 
     beforeEach(async () => {
       utilModule = await td.replaceEsm(require.resolve("../../../lib/browser/util.js"));
-      ({ turndown } = await import("../../../lib/browser/turndown.js"));
+      ({ turndown } = await import("../../lib/browser/turndown.js"));
     });
 
     afterEach(() => {

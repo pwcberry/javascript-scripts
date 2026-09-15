@@ -2,7 +2,7 @@ import os from "node:os";
 import path from "node:path";
 import { describe, it } from "mocha";
 import { expect } from "chai";
-import { resolvePath } from "../../../lib/node/file.js";
+import { resolvePath } from "../../lib/node/file.js";
 
 describe("file.js", () => {
   describe("#resolvePath", () => {

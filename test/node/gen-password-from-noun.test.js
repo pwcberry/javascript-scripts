@@ -1,6 +1,6 @@
 import { describe, it } from "mocha";
 import { expect } from "chai";
-import { generatePassword } from "../../../lib/node/gen-password-from-noun.js";
+import { generatePassword } from "../../lib/node/gen-password-from-noun.js";
 
 // Run each property check this many times to account for randomness.
 const ITERATIONS = 50;
