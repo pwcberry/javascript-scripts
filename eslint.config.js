@@ -6,7 +6,7 @@ import mochaPlugin from "eslint-plugin-mocha";
 
 export default defineConfig([
   {
-    files: ["lib/**/*.js", "test/**/*.js", "eslint.config.js"],
+    files: ["lib/**/*.js", "test/**/*.test.js", "test/*.js", "eslint.config.js"],
     extends: [
       js.configs.recommended,
       mochaPlugin.configs.recommended,
@@ -20,7 +20,7 @@ export default defineConfig([
     languageOptions: { globals: { ...globals.browser, ...globals.node } },
     rules: {
       "mocha/no-mocha-arrows": "off",
-      "no-unused-vars": "warn",
+      "no-unused-vars": ["warn", { argsIgnorePattern: "^_" }],
     },
   },
 ]);
