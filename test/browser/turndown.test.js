@@ -4,23 +4,13 @@ import * as td from "testdouble";
 import { expect, use } from "chai";
 import tdChai from "testdouble-chai";
 import { JSDOM } from "jsdom";
-import { getFixturePath } from "../util.js";
+import { getFixturePath, setDomGlobals } from "../util.js";
 
 use(tdChai(td));
 
 const require = createRequire(import.meta.url);
 
 describe("turndown.js", () => {
-  /** @type {(window: Window) => void} */
-  const setDomGlobals = (window) => {
-    globalThis.document = window.document;
-    globalThis.Document = window.Document;
-    globalThis.DocumentFragment = window.DocumentFragment;
-    globalThis.Element = window.Element;
-    globalThis.HTMLElement = window.HTMLElement;
-    globalThis.Node = window.Node;
-  };
-
   const parse = (html) => {
     const dom = new JSDOM(html);
     setDomGlobals(dom.window);
@@ -182,7 +172,7 @@ describe("turndown.js", () => {
     let turndown, utilModule;
 
     beforeEach(async () => {
-      utilModule = await td.replaceEsm(require.resolve("../../../lib/browser/util.js"));
+      utilModule = await td.replaceEsm(require.resolve("../../lib/browser/util.js"));
       ({ turndown } = await import("../../lib/browser/turndown.js"));
     });
 

@@ -4,7 +4,7 @@ import { expect, use } from "chai";
 import tdChai from "testdouble-chai";
 import { JSDOM } from "jsdom";
 import { walkHtmlDom } from "../../lib/browser/dom-walker.js";
-import { getFixturePath } from "../util.js";
+import { getFixturePath, setDomGlobals } from "../util.js";
 
 use(tdChai(td));
 
@@ -12,16 +12,9 @@ describe("dom-walker.js", () => {
   describe("#walkHtmlDom", () => {
     const NO_OP = () => {};
 
-    /** @type {(Window) => void} */
-    const setElementTypes = (window) => {
-      globalThis.Document = window.Document;
-      globalThis.DocumentFragment = window.DocumentFragment;
-      globalThis.HTMLElement = window.HTMLElement;
-    };
-
     it("throws when root is a comment", () => {
       const dom = new JSDOM("<!DOCTYPE html><html lang='en'><!-- A Comment --></html>");
-      setElementTypes(dom.window);
+      setDomGlobals(dom.window);
       const root = dom.window.document.documentElement.firstChild;
 
       expect(() => {
@@ -31,7 +24,7 @@ describe("dom-walker.js", () => {
 
     it("throws when root is a text node", () => {
       const dom = new JSDOM("<!DOCTYPE html><html lang='en'><title>TEXT</title></html>");
-      setElementTypes(dom.window);
+      setDomGlobals(dom.window);
       const element = dom.window.document.getElementsByTagName("title")[0];
       const root = element.firstChild;
 
@@ -42,7 +35,7 @@ describe("dom-walker.js", () => {
 
     it("throws when visitor function is undefined", () => {
       const dom = new JSDOM("<!DOCTYPE html><html lang='en'><body><h1>Heading</h1></body></html>");
-      setElementTypes(dom.window);
+      setDomGlobals(dom.window);
       const root = dom.window.document.documentElement;
 
       expect(() => {
@@ -52,7 +45,7 @@ describe("dom-walker.js", () => {
 
     it("executes visitor when element encountered", () => {
       const dom = new JSDOM("<!DOCTYPE html><html lang='en'><body><h1>Heading</h1></body></html>");
-      setElementTypes(dom.window);
+      setDomGlobals(dom.window);
       const root = dom.window.document.documentElement;
       const visitor = td.func("visitor");
 
@@ -63,7 +56,7 @@ describe("dom-walker.js", () => {
 
     it("does not traverse deep when visitor returns false", () => {
       const dom = new JSDOM("<!DOCTYPE html><html lang='en'><body><h1>Heading</h1></body></html>");
-      setElementTypes(dom.window);
+      setDomGlobals(dom.window);
 
       let counter = 0;
       const root = dom.window.document.documentElement;
@@ -88,7 +81,7 @@ describe("dom-walker.js", () => {
 
     it("traverses sibling elements", () => {
       JSDOM.fromFile(getFixturePath()).then((dom) => {
-        setElementTypes(dom.window);
+        setDomGlobals(dom.window);
 
         let counter = 0;
         const root = dom.window.document.documentElement;
@@ -106,7 +99,7 @@ describe("dom-walker.js", () => {
 
     it("traverses a document fragment", () => {
       const dom = new JSDOM("<!DOCTYPE html><html lang='en'><body></body></html>");
-      setElementTypes(dom.window);
+      setDomGlobals(dom.window);
 
       const document = dom.window.document;
       const frag = document.createDocumentFragment();
@@ -129,7 +122,7 @@ describe("dom-walker.js", () => {
 
     it("traverses a document", () => {
       const dom = new JSDOM("<!DOCTYPE html><html lang='en'><head><title>TITLE</title></head><body><h1>Heading</h1></body></html>");
-      setElementTypes(dom.window);
+      setDomGlobals(dom.window);
 
       let counter = 0;
       const root = dom.window.document;

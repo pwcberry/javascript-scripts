@@ -7,7 +7,6 @@ import tdChai from "testdouble-chai";
 use(tdChai(td));
 const require = createRequire(import.meta.url);
 
-// TODO: Analyse why tests are failing in Node 24 and fix them
 describe("account.js", () => {
   let module, mathLib;
   const girlJson = [
@@ -33,12 +32,12 @@ describe("account.js", () => {
   const streetJson = [{ name: "Little Bourke Street" }, { name: "Elizabeth Street" }];
 
   beforeEach(async () => {
-    await td.replaceEsm(require.resolve("../../../data/girls-names.json"), null, girlJson);
-    await td.replaceEsm(require.resolve("../../../data/boys-names.json"), null, boyJson);
-    await td.replaceEsm(require.resolve("../../../data/family-names.json"), null, familyJson);
-    await td.replaceEsm(require.resolve("../../../data/localities.json"), null, localityJson);
-    await td.replaceEsm(require.resolve("../../../data/melbourne-streets.json"), null, streetJson);
-    mathLib = await td.replaceEsm(require.resolve("../../../lib/isomorphic/math.js"));
+    await td.replaceEsm(require.resolve("../../data/girls-names.json"), null, girlJson);
+    await td.replaceEsm(require.resolve("../../data/boys-names.json"), null, boyJson);
+    await td.replaceEsm(require.resolve("../../data/family-names.json"), null, familyJson);
+    await td.replaceEsm(require.resolve("../../data/localities.json"), null, localityJson);
+    await td.replaceEsm(require.resolve("../../data/melbourne-streets.json"), null, streetJson);
+    mathLib = await td.replaceEsm(require.resolve("../../lib/isomorphic/math.js"));
     module = await import("../../lib/node/account.js");
   });
 
@@ -58,7 +57,7 @@ describe("account.js", () => {
       const account = module.generateAccount();
       expect(mathLib.getRndInt).to.have.been.called;
       expect(account.id).to.equal("22233344");
-      expect(account.name).to.equal("Catherine Smith");
+      expect(account.fullname).to.equal("Catherine Smith");
       expect(account.address.street).to.equal("5 Elizabeth Street");
       expect(account.address.locality).to.equal("COBURG");
       expect(account.address.state).to.equal("VIC");
@@ -68,6 +67,7 @@ describe("account.js", () => {
 
   describe("#generateAccountList", () => {
     beforeEach(async () => {
+      td.when(mathLib.getRndInt(20000000, 40000000)).thenReturn(22233344);
       td.when(mathLib.getRndInt(0, td.matchers.isA(Number))).thenReturn(0);
       td.when(mathLib.getRndInt(0, 10)).thenReturn(9);
       td.when(mathLib.getRndInt(1, 30)).thenReturn(5);
