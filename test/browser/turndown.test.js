@@ -153,6 +153,97 @@ describe("turndown.js", () => {
       });
     });
 
+    describe("custom visitors", () => {
+      it("renders a block-level tag with no built-in handler", () => {
+        const document = parse("<body><figure>Diagram</figure></body>");
+        const config = {
+          visitors: {
+            block: {
+              figure: (element, { doc, renderInline }) => {
+                doc.addBlock(`[FIGURE: ${renderInline().trim()}]`);
+                return false;
+              },
+            },
+          },
+        };
+
+        expect(toMarkdown(document.body, config)).to.equal("[FIGURE: Diagram]");
+      });
+
+      it("renders an inline tag with no built-in handler", () => {
+        const document = parse("<body><p>This is <mark>marked</mark> text.</p></body>");
+        const config = {
+          visitors: {
+            inline: {
+              mark: (element, exclude, { renderInline }) => `==${renderInline()}==`,
+            },
+          },
+        };
+
+        expect(toMarkdown(document.body, config)).to.equal("This is ==marked== text.");
+      });
+
+      it("overrides a built-in block tag's rendering", () => {
+        const document = parse("<body><blockquote><p>A quote.</p></blockquote></body>");
+        const config = {
+          visitors: {
+            block: {
+              blockquote: (element, { doc, renderInline }) => {
+                doc.addBlock(`<<${renderInline(element.firstElementChild).trim()}>>`);
+                return false;
+              },
+            },
+          },
+        };
+
+        expect(toMarkdown(document.body, config)).to.equal("<<A quote.>>");
+      });
+
+      it("overrides a built-in inline tag's rendering", () => {
+        const document = parse("<body><p><strong>Bold</strong> statement.</p></body>");
+        const config = {
+          visitors: {
+            inline: {
+              strong: (element, exclude, { renderInline }) => `__${renderInline()}__`,
+            },
+          },
+        };
+
+        expect(toMarkdown(document.body, config)).to.equal("__Bold__ statement.");
+      });
+
+      it("lets a custom visitor extend the built-in rendering via next()", () => {
+        const document = parse("<body><h2>Section</h2></body>");
+        const config = {
+          visitors: {
+            block: {
+              h2: (element, { next }) => next(),
+            },
+          },
+        };
+
+        expect(toMarkdown(document.body, config)).to.equal("## Section");
+      });
+
+      it("applies custom visitors inside a nested blockquote document", () => {
+        const document = parse("<body><blockquote><p>Nested <em>quote</em>.</p></blockquote></body>");
+        const config = {
+          visitors: {
+            inline: {
+              em: (element, exclude, { renderInline }) => `*${renderInline()}*`,
+            },
+          },
+        };
+
+        expect(toMarkdown(document.body, config)).to.equal("> Nested *quote*.");
+      });
+
+      it("behaves exactly as before when no config is given", () => {
+        const document = parse("<body><h1>Title</h1><p>Body <strong>text</strong>.</p></body>");
+        expect(toMarkdown(document.body)).to.equal("# Title\n\nBody **text**.");
+      });
+    });
+
     describe("roots", () => {
       it("converts starting from an element other than body", () => {
         const document = parse("<body><main><h1>Heading</h1></main><footer><p>Ignored.</p></footer></body>");
