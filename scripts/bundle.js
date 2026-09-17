@@ -1,7 +1,11 @@
 /**
- * This module is a proof-of-concept for bundling a JavaScript file into a single <script> tag that can be injected into the DOM.
- * It uses esbuild to bundle the input file and its dependencies, and then wraps the output in a <script> tag that is
- * appended to the <head> of the document.
+ * Output a JavaScript file as an IIFE bundle that can be used in the browser.
+ *
+ * Usage: node scripts/bundle.js <input.js> <output.js> [entryPointName]
+ *
+ * @param inputFile {string} The path to the input JavaScript file to bundle.
+ * @param outputFile {string} The path to the output JavaScript file to write.
+ * @param moduleEntryPoint {string} Optional. The name of the global variable for the IIFE. Defaults to "module".
  */
 import { build } from "esbuild";
 import { writeFile } from "node:fs/promises";
@@ -30,21 +34,13 @@ async function main() {
     write: false,
     format: "iife",
     platform: "browser",
-    globalName: moduleEntryPoint
+    globalName: moduleEntryPoint,
+    target: "es2023",
   });
 
-  const bundleOutput = result.outputFiles[0].text.trim()
-    .replace(/\\`/g, "\\u005c\\u0060")
-    .replace(/`/g, "\\`"); // Escape backticks for template literal
-
-  // Output wrapper that creates <script>, sets textContent, and injects into <head>
-  const wrapped = `const s = document.createElement("script");
-s.textContent = \`${bundleOutput}\`;
-document.head.appendChild(s);
-`;
-
-  await writeFile(outputPath, wrapped, "utf8");
-  console.log(`Wrote wrapped bundle to ${outputPath}`);
+  const bundleOutput = result.outputFiles[0].text.trim();
+  await writeFile(outputPath, bundleOutput, "utf8");
+  console.log(`Wrote IIFE bundle to ${outputPath}`);
 }
 
 try {
