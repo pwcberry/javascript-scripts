@@ -4,7 +4,7 @@ import * as td from "testdouble";
 import { expect, use } from "chai";
 import tdChai from "testdouble-chai";
 import { JSDOM } from "jsdom";
-import { extractImageData } from "../../lib/browser/image.js";
+import { extractImageData, renderImageToBlob } from "../../lib/browser/image.js";
 
 use(tdChai(td));
 
@@ -16,6 +16,21 @@ describe("image.js", () => {
     globalThis.HTMLImageElement = window.HTMLImageElement;
     globalThis.FileReader = window.FileReader;
     globalThis.Blob = window.Blob;
+    globalThis.document = window.document;
+  };
+
+  /** @type {(image: HTMLImageElement, width: number, height: number) => void} */
+  const setNaturalSize = (image, width, height) => {
+    Object.defineProperty(image, "naturalWidth", { value: width, configurable: true });
+    Object.defineProperty(image, "naturalHeight", { value: height, configurable: true });
+  };
+
+  /** @type {(canvas: object) => void} */
+  const stubCanvasCreation = (canvas) => {
+    const createElement = dom.window.document.createElement.bind(dom.window.document);
+    td.replace(dom.window.document, "createElement", tagName => (
+      tagName === "canvas" ? canvas : createElement(tagName)
+    ));
   };
 
   beforeEach(() => {
@@ -28,6 +43,7 @@ describe("image.js", () => {
   afterEach(() => {
     td.reset();
     delete globalThis.fetch;
+    delete globalThis.document;
   });
 
   describe("#extractImageData", () => {
@@ -55,6 +71,51 @@ describe("image.js", () => {
         data: Buffer.from(bytes).toString("base64"),
         type: "image/png",
       });
+    });
+  });
+
+  describe("#renderImageToBlob", () => {
+    it("throws when the argument is not an HTMLImageElement", async () => {
+      try {
+        await renderImageToBlob(dom.window.document.body);
+        expect.fail("Expected renderImageToBlob to reject with a TypeError.");
+      }
+      catch (error) {
+        expect(error).to.be.instanceOf(TypeError);
+      }
+    });
+
+    it("draws the image onto a canvas sized to its natural dimensions and resolves with the bitmap and its type", async () => {
+      const image = dom.window.document.querySelector("img");
+      setNaturalSize(image, 100, 50);
+
+      const blob = new dom.window.Blob([new Uint8Array([9, 9])], { type: "image/png" });
+      const context = { drawImage: td.func("drawImage") };
+      const canvas = { getContext: td.func("getContext"), toBlob: td.func("toBlob") };
+      td.when(canvas.getContext("2d")).thenReturn(context);
+      td.when(canvas.toBlob(td.matchers.isA(Function))).thenDo(callback => callback(blob));
+      stubCanvasCreation(canvas);
+
+      const result = await renderImageToBlob(image);
+
+      expect(canvas.width).to.equal(100);
+      expect(canvas.height).to.equal(50);
+      td.verify(context.drawImage(image, 0, 0));
+      expect(result).to.deep.equal({ data: blob, type: "image/png" });
+    });
+
+    it("returns null when canvas.toBlob produces no blob", async () => {
+      const image = dom.window.document.querySelector("img");
+      setNaturalSize(image, 100, 50);
+
+      const context = { drawImage: td.func("drawImage") };
+      const canvas = { getContext: td.func("getContext"), toBlob: td.func("toBlob") };
+      td.when(canvas.getContext("2d")).thenReturn(context);
+      td.when(canvas.toBlob(td.matchers.isA(Function))).thenDo(callback => callback(null));
+      stubCanvasCreation(canvas);
+
+      const result = await renderImageToBlob(image);
+      expect(result).to.deep.equal({ data: null, type: "image/png" });
     });
   });
 });
