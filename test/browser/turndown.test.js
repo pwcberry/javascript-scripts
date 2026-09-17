@@ -277,7 +277,7 @@ describe("turndown.js", () => {
 
       turndown(heading, "heading.md");
 
-      expect(utilModule.downloadFile).to.have.been.calledWith("heading.md", "# Heading");
+      expect(utilModule.downloadTextFile).to.have.been.calledWith("heading.md", "# Heading");
     });
 
     it("resolves a CSS selector against the current document", () => {
@@ -285,7 +285,7 @@ describe("turndown.js", () => {
 
       turndown("main", "main.md");
 
-      expect(utilModule.downloadFile).to.have.been.calledWith("main.md", "# Heading");
+      expect(utilModule.downloadTextFile).to.have.been.calledWith("main.md", "# Heading");
     });
 
     it("falls back to the document body when no start element is given", () => {
@@ -293,7 +293,7 @@ describe("turndown.js", () => {
 
       turndown(undefined, "body.md");
 
-      expect(utilModule.downloadFile).to.have.been.calledWith("body.md", "Body text.");
+      expect(utilModule.downloadTextFile).to.have.been.calledWith("body.md", "Body text.");
     });
   });
 });
